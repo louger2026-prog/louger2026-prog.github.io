@@ -1,0 +1,3732 @@
+[
+  {
+    "path-extension": "assets/twist-content/saying-twist/",
+    "category": "saying-twist",
+    "title": "__",
+    "type": "",
+    "description": "",
+    "image": "1.jpg",
+    "@image": "assets/twist-content/saying-twist/1.jpg",
+    "link": ""
+  },
+  {
+    "path-extension": "assets/twist-content/saying-twist/",
+    "category": "saying-twist",
+    "title": "a",
+    "type": "",
+    "description": "",
+    "image": "2.jpg",
+    "@image": "assets/twist-content/saying-twist/2.jpg",
+    "link": ""
+  },
+  {
+    "path-extension": "assets/twist-content/saying-twist/",
+    "category": "saying-twist",
+    "title": "ttw",
+    "type": "",
+    "description": "",
+    "image": "3.jpg",
+    "@image": "assets/twist-content/saying-twist/3.jpg",
+    "link": ""
+  },
+  {
+    "path-extension": "assets/twist-content/saying-twist/",
+    "category": "saying-twist",
+    "title": "i",
+    "type": "",
+    "description": "",
+    "image": "4.jpg",
+    "@image": "assets/twist-content/saying-twist/4.jpg",
+    "link": ""
+  },
+  {
+    "path-extension": "assets/twist-content/saying-twist/",
+    "category": "saying-twist",
+    "title": "iss",
+    "type": "",
+    "description": "",
+    "image": "6.jpg",
+    "@image": "assets/twist-content/saying-twist/6.jpg",
+    "link": ""
+  },
+  {
+    "path-extension": "assets/twist-content/saying-twist/",
+    "category": "saying-twist",
+    "title": "t",
+    "type": "",
+    "description": "",
+    "image": "7.jpg",
+    "@image": "assets/twist-content/saying-twist/7.jpg",
+    "link": ""
+  },
+  {
+    "path-extension": "assets/twist-content/Twisted Forms & Shapes/",
+    "category": "Twisted Forms",
+    "title": "DNA Double Helix",
+    "type": "Biological Structure",
+    "description": "The iconic double-helical structure of DNA.",
+    "image": "dna-doublehelix.png",
+    "@image": "assets/twist-content/Twisted Forms & Shapes/dna-doublehelix.png",
+    "link": "https://en.wikipedia.org/wiki/Molecular_Structure_of_Nucleic_Acids:_A_Structure_for_Deoxyribose_Nucleic_Acid#/media/File:DNA-structure-and-bases.png"
+  },
+  {
+    "path-extension": "assets/twist-content/Twisted Forms & Shapes/",
+    "category": "Twisted Forms",
+    "title": "Helix",
+    "type": "Geometric Form",
+    "description": "A three-dimensional spiral curve.",
+    "image": "geometric-helix.png",
+    "@image": "assets/twist-content/Twisted Forms & Shapes/geometric-helix.png",
+    "link": "https://en.wikipedia.org/wiki/Helix#/media/File:Helix.svg"
+  },
+  {
+    "path-extension": "assets/twist-content/Twisted Forms & Shapes/",
+    "category": "Twisted Forms",
+    "title": "Spiral Staircase",
+    "type": "Architecture",
+    "description": "A staircase winding around a central axis.",
+    "image": "spiral-staircase.jpg",
+    "@image": "assets/twist-content/Twisted Forms & Shapes/spiral-staircase.jpg",
+    "link": "https://www.dezeen.com/2026/03/16/jaime-prous-architects-pineda-monedero-casa-144-barcelona-home/"
+  },
+  {
+    "path-extension": "assets/twist-content/Twisted Forms & Shapes/",
+    "category": "Twisted Forms",
+    "title": "Corkscrew",
+    "type": "Tool",
+    "description": "A helical metal screw used to remove corks.",
+    "image": "corkscrew.jpg",
+    "@image": "assets/twist-content/Twisted Forms & Shapes/corkscrew.jpg",
+    "link": "https://en.wikipedia.org/wiki/Corkscrew"
+  },
+  {
+    "path-extension": "assets/twist-content/Twisted Forms & Shapes/",
+    "category": "Twisted Forms",
+    "title": "Pretzel",
+    "type": "Food Shape",
+    "description": "Baked dough twisted into a distinctive knot.",
+    "image": "pretzel-shape.jpg",
+    "@image": "assets/twist-content/Twisted Forms & Shapes/pretzel-shape.jpg",
+    "link": "https://en.wikipedia.org/wiki/Pretzel"
+  },
+  {
+    "path-extension": "assets/twist-content/Twisted Forms & Shapes/",
+    "category": "Twisted Forms",
+    "title": "Rope",
+    "type": "Cordage",
+    "description": "Fibers twisted together to form a strong line.",
+    "image": "cordage.jpg",
+    "@image": "assets/twist-content/Twisted Forms & Shapes/cordage.jpg",
+    "link": "https://en.wikipedia.org/wiki/Rope"
+  },
+  {
+    "path-extension": "assets/twist-content/Twisted Forms & Shapes/",
+    "category": "Twisted Forms",
+    "title": "Twisted Pair Cable",
+    "type": "Electrical Cable",
+    "description": "Two insulated wires twisted together to reduce interference.",
+    "image": "twisted-pair-cable.jpg",
+    "@image": "assets/twist-content/Twisted Forms & Shapes/twisted-pair-cable.jpg",
+    "link": "https://lltsecurity.com/products/single-core-fire-resistant-cable/twisted-pair/"
+  },
+  {
+    "path-extension": "assets/twist-content/Twisted Forms & Shapes/",
+    "category": "Twisted Forms",
+    "title": "Twist Drill Bit",
+    "type": "Tool",
+    "description": "A drill bit with helical flutes.",
+    "image": "twist-drill-bit.jpg",
+    "@image": "assets/twist-content/Twisted Forms & Shapes/twist-drill-bit.jpg",
+    "link": "https://www.dictoolsindia.com/hss-cutting-tools/twist-drill-bits.php"
+  },
+  {
+    "path-extension": "assets/twist-content/Twisted Forms & Shapes/",
+    "category": "Twisted Forms",
+    "title": "Auger",
+    "type": "Tool",
+    "description": "A spiral boring tool for wood or soil.",
+    "image": "auger-earth.jpg",
+    "@image": "assets/twist-content/Twisted Forms & Shapes/auger-earth.jpg",
+    "link": "https://www.diy.com/departments/manual-auger-earth-hand-drill-for-garden-fence-posts/5055837241961_BQ.prd"
+  },
+  {
+    "path-extension": "assets/twist-content/Twisted Forms & Shapes/",
+    "category": "Twisted Forms",
+    "title": "Double Helix Stair",
+    "type": "Architecture",
+    "description": "Staircase with two intertwined helices.",
+    "image": "double-helix-staircase.jpg",
+    "@image": "assets/twist-content/Twisted Forms & Shapes/double-helix-staircase.jpg",
+    "link": "https://ar.pinterest.com/pin/251357222946172553/"
+  },
+  {
+    "path-extension": "assets/twist-content/Twisted Forms & Shapes/",
+    "category": "Twisted Forms",
+    "title": "Vine",
+    "type": "Plant Form",
+    "description": "A climbing plant that winds around supports.",
+    "image": "vine-twist.jpg",
+    "@image": "assets/twist-content/Twisted Forms & Shapes/vine-twist.jpg",
+    "link": "https://www.gardenstead.com/growing-pothos-on-moss-poles/"
+  },
+  {
+    "path-extension": "assets/twist-content/Twisted Forms & Shapes/",
+    "category": "Twisted Forms",
+    "title": "Tendril",
+    "type": "Plant Structure",
+    "description": "Slender organ that coils around nearby objects.",
+    "image": "tendril-twist.jpeg",
+    "@image": "assets/twist-content/Twisted Forms & Shapes/tendril-twist.jpeg",
+    "link": "https://www.winetraveler.com/wine-resources/winemaking-101-growing-grapes/"
+  },
+  {
+    "path-extension": "assets/twist-content/Twisted Forms & Shapes/",
+    "category": "Twisted Forms",
+    "title": "Nautilus Shell",
+    "type": "Natural Form",
+    "description": "Shell exhibiting a logarithmic spiral.",
+    "image": "nautilus-shell.jpg",
+    "@image": "assets/twist-content/Twisted Forms & Shapes/nautilus-shell.jpg",
+    "link": "https://en.wikipedia.org/wiki/Nautilus"
+  },
+  {
+    "path-extension": "assets/twist-content/Twisted Forms & Shapes/",
+    "category": "Twisted Forms",
+    "title": "Ram's Horn",
+    "type": "Animal Anatomy",
+    "description": "Horn growing in a spiral curve.",
+    "image": "ram-horn-anatomy.jpg",
+    "@image": "assets/twist-content/Twisted Forms & Shapes/ram-horn-anatomy.jpg",
+    "link": "https://www.mdpi.com/2313-7673/9/8/506"
+  },
+  {
+    "path-extension": "assets/twist-content/Twisted Forms & Shapes/",
+    "category": "Twisted Forms",
+    "title": "Snail Shell",
+    "type": "Natural Form",
+    "description": "Shell formed as a spiral coil.",
+    "image": "snail-shell-natural.jpg",
+    "@image": "assets/twist-content/Twisted Forms & Shapes/snail-shell-natural.jpg",
+    "link": "https://animals.howstuffworks.com/marine-life/do-snails-get-shells.htm"
+  },
+  {
+    "path-extension": "assets/twist-content/Twisted Forms & Shapes/",
+    "category": "Twisted Forms",
+    "title": "Fusilli",
+    "type": "Pasta",
+    "description": "Spiral-shaped pasta.",
+    "image": "",
+    "@image": "assets/twist-content/Twisted Forms & Shapes/",
+    "link": "https://plantedinthekitchen.com/one-pot-spicy-fusilli/"
+  },
+  {
+    "path-extension": "assets/twist-content/Twisted Forms & Shapes/",
+    "category": "Twisted Forms",
+    "title": "Twisted Breadstick",
+    "type": "Bakery",
+    "description": "Bread dough twisted before baking.",
+    "image": "twisted-breadsticks.jpg",
+    "@image": "assets/twist-content/Twisted Forms & Shapes/twisted-breadsticks.jpg",
+    "link": "https://www.youtube.com/watch?v=_ftS5v3Lk3c"
+  },
+  {
+    "path-extension": "assets/twist-content/Twisted Forms & Shapes/",
+    "category": "Twisted Forms",
+    "title": "Candy Cane",
+    "type": "Confectionery",
+    "description": "Curved twisted sugar confection.",
+    "image": "candy-code.jpg",
+    "@image": "assets/twist-content/Twisted Forms & Shapes/candy-code.jpg",
+    "link": "https://www.crazycandies.co.nz/products/peppermint-candy-canes?srsltid=AfmBOorjGUOTdGovLkxxdStOQJhw9Lj-8gnasbaRqhyXykF0q5owhfak"
+  },
+  {
+    "path-extension": "assets/twist-content/Twisted Forms & Shapes/",
+    "category": "Twisted Forms",
+    "title": "Barber Pole",
+    "type": "Symbol",
+    "description": "Traditional pole with spiraling stripes.",
+    "image": "Barberspole.jpg",
+    "@image": "assets/twist-content/Twisted Forms & Shapes/Barberspole.jpg",
+    "link": "https://en.wikipedia.org/wiki/Barber%27s_pole"
+  },
+  {
+    "path-extension": "assets/twist-content/Twisted Forms & Shapes/",
+    "category": "Twisted Forms",
+    "title": "Spiral Galaxy",
+    "type": "Astronomy",
+    "description": "Galaxy with winding spiral arms.",
+    "image": "spiral-galaxy.jpg",
+    "@image": "assets/twist-content/Twisted Forms & Shapes/spiral-galaxy.jpg",
+    "link": "https://en.wikipedia.org/wiki/Spiral_galaxy"
+  },
+  {
+    "path-extension": "assets/twist-content/Twisted Forms & Shapes/",
+    "category": "Twisted Forms",
+    "title": "Tornado Funnel",
+    "type": "Weather Form",
+    "description": "Rotating funnel-shaped vortex.",
+    "image": "tornado-funnel.jpg",
+    "@image": "assets/twist-content/Twisted Forms & Shapes/tornado-funnel.jpg",
+    "link": "https://www.weatherandradar.co.uk/weather-news/how-do-funnel-clouds-form--429a4629-4850-4b65-aa13-a433bb06cbf5"
+  },
+  {
+    "path-extension": "assets/twist-content/Twisted Forms & Shapes/",
+    "category": "Twisted Forms",
+    "title": "Twisted Tree Trunk",
+    "type": "Botanical Form",
+    "description": "Tree trunk naturally contorted into spirals.",
+    "image": "twisted-trunks.jpg",
+    "@image": "assets/twist-content/Twisted Forms & Shapes/twisted-trunks.jpg",
+    "link": "https://www.epicgardening.com/trees-twisted-branches/"
+  },
+  {
+    "path-extension": "assets/twist-content/Twisted Forms & Shapes/",
+    "category": "Twisted Forms",
+    "title": "Mobius Strip",
+    "type": "Mathematical Surface",
+    "description": "Surface created by giving a strip a half twist.",
+    "image": "mobius_strip.jpg",
+    "@image": "assets/twist-content/Twisted Forms & Shapes/mobius_strip.jpg",
+    "link": "https://en.wikipedia.org/wiki/M%C3%B6bius_strip"
+  },
+  {
+    "path-extension": "assets/twist-content/Plants/",
+    "category": "Plants",
+    "title": "Twisted Willow",
+    "type": "Tree",
+    "description": "Common name for ornamental corkscrew willow prized for contorted branches.",
+    "image": "corkscrew-willow-salix-matsudana-48c2-a1e6-8a49e6bc85a5.jpg",
+    "@image": "assets/twist-content/Plants/corkscrew-willow-salix-matsudana-48c2-a1e6-8a49e6bc85a5.jpg",
+    "link": "https://www.rootsplants.co.uk/products/corkscrew-willow-salix-matsudana-tortuosa"
+  },
+  {
+    "path-extension": "assets/twist-content/Plants/",
+    "category": "Plants",
+    "title": "Twisted Hazel",
+    "type": "Shrub",
+    "description": "Common name for corkscrew hazel with spiraling stems.",
+    "image": "corylus-avellana-contorta.jpg",
+    "@image": "assets/twist-content/Plants/corylus-avellana-contorta.jpg",
+    "link": "https://www.vdberk.com/trees/corylus-avellana-contorta/"
+  },
+  {
+    "path-extension": "assets/twist-content/Plants/",
+    "category": "Plants",
+    "title": "Twisted Arrow Yucca",
+    "type": "Succulent",
+    "description": "Cultivar of yucca with spiraling foliage.",
+    "image": "twisted-yucca.jpg",
+    "@image": "assets/twist-content/Plants/twisted-yucca.jpg",
+    "link": "https://gardenerspath.com/plants/succulents/yucca-types/#Twisted"
+  },
+  {
+    "path-extension": "assets/twist-content/Plants/",
+    "category": "Plants",
+    "title": "Twisted Sister Daylily",
+    "type": "Perennial",
+    "description": "Named daylily cultivar with ruffled blooms.",
+    "image": "twisted-lily.jpg",
+    "@image": "assets/twist-content/Plants/twisted-lily.jpg",
+    "link": "https://www.facebook.com/groups/daylilyoz/posts/3141266486033381/"
+  },
+  {
+    "path-extension": "assets/twist-content/Plants/",
+    "category": "Plants",
+    "title": "Twisted Sister Elm",
+    "type": "Tree",
+    "description": "Cultivar name used for ornamental elm selections.",
+    "image": "twisted-elm.jpg",
+    "@image": "assets/twist-content/Plants/twisted-elm.jpg",
+    "link": "https://www.reddit.com/r/oddlyterrifying/comments/sand2k/the_twisted_branches_of_the_camperdown_elm_tree/"
+  },
+  {
+    "path-extension": "assets/twist-content/Plants/",
+    "category": "Plants",
+    "title": "Twisted Leaf Yucca",
+    "type": "Succulent",
+    "description": "Common descriptive name for spiral-leaved yucca forms.",
+    "image": "twistedleaf-yucca.jpg",
+    "@image": "assets/twist-content/Plants/twistedleaf-yucca.jpg",
+    "link": "https://shop.cacti.com/landscape-succulents/yucca-rupicola/"
+  },
+  {
+    "path-extension": "assets/twist-content/Plants/",
+    "category": "Plants",
+    "title": "Twisted Myrtle",
+    "type": "Shrub",
+    "description": "Ornamental myrtle cultivar with contorted growth.",
+    "image": "twisted-myrtle.jpg",
+    "@image": "assets/twist-content/Plants/twisted-myrtle.jpg",
+    "link": "https://www.phgmag.com/twisted-myrtle-what-makes-this-evergreen-stand-out/"
+  },
+  {
+    "path-extension": "assets/twist-content/Plants/",
+    "category": "Plants",
+    "title": "Twisted Jade",
+    "type": "Succulent",
+    "description": "Cultivated jade plant form with unusual twisted branching.",
+    "image": "twisted-jade.jpg",
+    "@image": "assets/twist-content/Plants/twisted-jade.jpg",
+    "link": "https://www.tiktok.com/@planting.tips3/video/7621910144963579158"
+  },
+  {
+    "path-extension": "assets/twist-content/Plants/",
+    "category": "Plants",
+    "title": "Twisted Cactus",
+    "type": "Cactus",
+    "description": "Common horticultural name for spiral-growing cactus cultivars.",
+    "image": "spiral-cactus.jpg",
+    "@image": "assets/twist-content/Plants/spiral-cactus.jpg",
+    "link": "https://promisesupply.ca/products/twisted-cactus-cereus-spiralis-4-inch-pot?srsltid=AfmBOor7wTfla6_hPwmi49Gmlcuuxfhbd3s8yNc1b3fjFB6H-2m2kaRl"
+  },
+  {
+    "path-extension": "assets/twist-content/Plants/",
+    "category": "Plants",
+    "title": "Twisted Bamboo",
+    "type": "Grass",
+    "description": "Ornamental bamboo with contorted culms in cultivation.",
+    "image": "twisted-bamboo.jpg",
+    "@image": "assets/twist-content/Plants/twisted-bamboo.jpg",
+    "link": "https://www.amazon.de/-/en/Lucky-Bamboo-Decoration-Dracaena-Sanderiana/dp/B00YXGERU6"
+  },
+  {
+    "path-extension": "assets/twist-content/Plants/",
+    "category": "Plants",
+    "title": "Twisted Hosta",
+    "type": "Perennial",
+    "description": "Hosta cultivar noted for curled foliage.",
+    "image": "twisted-hosta.jpg",
+    "@image": "assets/twist-content/Plants/twisted-hosta.jpg",
+    "link": "https://www.gardeningexpress.co.uk/hosta-let-s-twist-again"
+  },
+  {
+    "path-extension": "assets/twist-content/Plants/",
+    "category": "Plants",
+    "title": "Twisted Iris",
+    "type": "Perennial",
+    "description": "Iris cultivar with twisted petals.",
+    "image": "twisted-iris.jpg",
+    "@image": "assets/twist-content/Plants/twisted-iris.jpg",
+    "link": "https://www.walmart.com/ip/Twist-Sheree-Reblooming-Bearded-Iris-Flower-Bulbs-Attracts-Butterflies-Hummingbirds-Deer-Resistant-Good-Cut-Flowers-Naturalizing-Perennializing-Easy/12026067892"
+  },
+  {
+    "path-extension": "assets/twist-content/Plants/",
+    "category": "Plants",
+    "title": "Twisted Rose",
+    "type": "Rose",
+    "description": "Rose cultivar name used for ornamental breeding lines.",
+    "image": "twist-rose.jpg",
+    "@image": "assets/twist-content/Plants/twist-rose.jpg",
+    "link": "https://goldenvalleyplants.co.uk/product/plants/rose-twist/"
+  },
+  {
+    "path-extension": "assets/twist-content/Animals/",
+    "category": "Animals",
+    "title": "Twisted-claw Millipede",
+    "type": "Invertebrate",
+    "description": "Common name applied to millipedes with distinctive hooked reproductive structures.",
+    "image": "twisted-claw-millipede.jpg",
+    "@image": "assets/twist-content/Animals/twisted-claw-millipede.jpg",
+    "link": "https://en.wikipedia.org/wiki/Nannaria_swiftae"
+  },
+  {
+    "path-extension": "assets/twist-content/Animals/",
+    "category": "Animals",
+    "title": "Twisted-wing Parasites",
+    "type": "Insect",
+    "description": "Common name for insects of the order Strepsiptera, known for twisted hind wings.",
+    "image": "twisted-wing-strepsister.jpg",
+    "@image": "assets/twist-content/Animals/twisted-wing-strepsister.jpg",
+    "link": "https://genent.cals.ncsu.edu/insect-identification/order-strepsiptera/"
+  },
+  {
+    "path-extension": "assets/twist-content/Animals/",
+    "category": "Animals",
+    "title": "Twisted-wing Moth",
+    "type": "Insect",
+    "description": "Common descriptive name used for several moth species with curled wings.",
+    "image": "twisted-wing-moth.jpg",
+    "@image": "assets/twist-content/Animals/twisted-wing-moth.jpg",
+    "link": "https://steemit.com/nature/@mostly.nature/the-twisted-moth-an-example-of-masquerade-in-nature"
+  },
+  {
+    "path-extension": "assets/twist-content/Animals/",
+    "category": "Animals",
+    "title": "Twisted Snail",
+    "type": "Mollusc",
+    "description": "Common name applied to spiral-shelled land snails.",
+    "image": "twisted-snail-mollusc.jpg",
+    "@image": "assets/twist-content/Animals/twisted-snail-mollusc.jpg",
+    "link": "https://www.britannica.com/science/torsion-biology"
+  },
+  {
+    "path-extension": "assets/twist-content/Animals/",
+    "category": "Animals",
+    "title": "Twisted Horn Antelope",
+    "type": "Mammal",
+    "description": "Descriptive term used for spiral-horned antelope species such as kudu.",
+    "image": "twisted-horn-antelope.jpg",
+    "@image": "assets/twist-content/Animals/twisted-horn-antelope.jpg",
+    "link": "https://en.wikipedia.org/wiki/Tragelaphini"
+  },
+  {
+    "path-extension": "assets/twist-content/Animals/",
+    "category": "Animals",
+    "title": "Twisted Horn Goat",
+    "type": "Mammal",
+    "description": "Common descriptive reference for breeds with corkscrew horns.",
+    "image": "the-markhor-mammal.jpg",
+    "@image": "assets/twist-content/Animals/the-markhor-mammal.jpg",
+    "link": "https://en.wikipedia.org/wiki/Markhor"
+  },
+  {
+    "path-extension": "assets/twist-content/Animals/",
+    "category": "Animals",
+    "title": "Twisted-claw Gecko",
+    "type": "Reptile",
+    "description": "Descriptive common name for geckos with curved adhesive digits.",
+    "image": "twisted-fourclawed-gecko.jpg",
+    "@image": "assets/twist-content/Animals/twisted-fourclawed-gecko.jpg",
+    "link": "https://www.thainationalparks.com/species/gehyra-mutilata"
+  },
+  {
+    "path-extension": "assets/twist-content/Animals/",
+    "category": "Animals",
+    "title": "Twisted Sea Whip",
+    "type": "Cnidarian",
+    "description": "Common name for certain flexible gorgonian corals with spiral growth.",
+    "image": "twisted-sea-whip.jpg",
+    "@image": "assets/twist-content/Animals/twisted-sea-whip.jpg",
+    "link": "https://www.britannica.com/animal/sea-whip"
+  },
+  {
+    "path-extension": "assets/twist-content/Nature & Weather/",
+    "category": "Nature & Weather",
+    "title": "Twister",
+    "type": "Weather Phenomenon",
+    "description": "Common informal term for a tornado.",
+    "image": "tornado.jpg",
+    "@image": "assets/twist-content/Nature & Weather/tornado.jpg",
+    "link": "https://en.wikipedia.org/wiki/Tornado"
+  },
+  {
+    "path-extension": "assets/twist-content/Nature & Weather/",
+    "category": "Nature & Weather",
+    "title": "Twisting Tornado",
+    "type": "Meteorology",
+    "description": "Descriptive term for a rotating tornado funnel.",
+    "image": "twisting-tornado.jpeg",
+    "@image": "assets/twist-content/Nature & Weather/twisting-tornado.jpeg",
+    "link": "https://www.britannica.com/science/tornado/Physical-characteristics-of-tornadoes"
+  },
+  {
+    "path-extension": "assets/twist-content/Nature & Weather/",
+    "category": "Nature & Weather",
+    "title": "Twisting Waterspout",
+    "type": "Weather Phenomenon",
+    "description": "Rotating column of air over water.",
+    "image": "twisting-waterspout.jpeg",
+    "@image": "assets/twist-content/Nature & Weather/twisting-waterspout.jpeg",
+    "link": "https://www.britannica.com/science/waterspout"
+  },
+  {
+    "path-extension": "assets/twist-content/Nature & Weather/",
+    "category": "Nature & Weather",
+    "title": "Dust Devil",
+    "type": "Atmospheric Vortex",
+    "description": "Small rotating column of air and dust.",
+    "image": "dust-devil.jpg",
+    "@image": "assets/twist-content/Nature & Weather/dust-devil.jpg",
+    "link": "https://en.wikipedia.org/wiki/Dust_devil"
+  },
+  {
+    "path-extension": "assets/twist-content/Nature & Weather/",
+    "category": "Nature & Weather",
+    "title": "Fire Whirl",
+    "type": "Fire Phenomenon",
+    "description": "Whirling vortex generated by intense heat and wind.",
+    "image": "fire-whirl.jpg",
+    "@image": "assets/twist-content/Nature & Weather/fire-whirl.jpg",
+    "link": "https://skybrary.aero/articles/fire-whirl"
+  },
+  {
+    "path-extension": "assets/twist-content/Nature & Weather/",
+    "category": "Nature & Weather",
+    "title": "Steam Devil",
+    "type": "Atmospheric Vortex",
+    "description": "Rotating column of steam above warm water.",
+    "image": "steam-devil.jpg",
+    "@image": "assets/twist-content/Nature & Weather/steam-devil.jpg",
+    "link": "https://www.youtube.com/watch?v=_ZQzDyhji2k"
+  },
+  {
+    "path-extension": "assets/twist-content/Nature & Weather/",
+    "category": "Nature & Weather",
+    "title": "Snow Devil",
+    "type": "Atmospheric Vortex",
+    "description": "Rare rotating snow vortex.",
+    "image": "snow-devil.jpg",
+    "@image": "assets/twist-content/Nature & Weather/snow-devil.jpg",
+    "link": "https://kool1079.com/very-rare-snow-devil-captured-on-video-in-colorado/"
+  },
+  {
+    "path-extension": "assets/twist-content/Nature & Weather/",
+    "category": "Nature & Weather",
+    "title": "Whirlwind",
+    "type": "Weather Phenomenon",
+    "description": "Generic rotating column of air.",
+    "image": "whirlpool-hydrologic.jpg",
+    "@image": "assets/twist-content/Nature & Weather/whirlpool-hydrologic.jpg",
+    "link": "https://en.wikipedia.org/wiki/Whirlwind#/media/File:Whirlwind-001.jpg"
+  },
+  {
+    "path-extension": "assets/twist-content/Nature & Weather/",
+    "category": "Nature & Weather",
+    "title": "Vortex",
+    "type": "Fluid Dynamics",
+    "description": "Naturally occurring rotating mass of fluid.",
+    "image": "vortex-fluid-dynamics.jpg",
+    "@image": "assets/twist-content/Nature & Weather/vortex-fluid-dynamics.jpg",
+    "link": "https://en.wikipedia.org/wiki/Vortex"
+  },
+  {
+    "path-extension": "assets/twist-content/Nature & Weather/",
+    "category": "Nature & Weather",
+    "title": "Whirlpool",
+    "type": "Hydrological Phenomenon",
+    "description": "Rotating body of water created by currents.",
+    "image": "whirlwird-weather.jpg",
+    "@image": "assets/twist-content/Nature & Weather/whirlwird-weather.jpg",
+    "link": "https://interestingengineering.com/lists/fascinating-facts-about-whirlpools-maelstroms"
+  },
+  {
+    "path-extension": "assets/twist-content/Nature & Weather/",
+    "category": "Nature & Weather",
+    "title": "Eddy",
+    "type": "Hydrology",
+    "description": "Circular movement of water creating a whirl.",
+    "image": "eddy-hydrology.jpg",
+    "@image": "assets/twist-content/Nature & Weather/eddy-hydrology.jpg",
+    "link": "https://en.wikipedia.org/wiki/Eddy_(fluid_dynamics)"
+  },
+  {
+    "path-extension": "assets/twist-content/Nature & Weather/",
+    "category": "Nature & Weather",
+    "title": "Twisted Rock Strata",
+    "type": "Geology",
+    "description": "Rock layers folded by tectonic forces.",
+    "image": "folded-twisted-layers-rock.jpg",
+    "@image": "assets/twist-content/Nature & Weather/folded-twisted-layers-rock.jpg",
+    "link": "https://www.dreamstime.com/folded-twisted-layers-ancient-rock-folded-twisted-layers-dalradian-schist-rock-neoproterozoic-age-found-image256811048"
+  },
+  {
+    "path-extension": "assets/twist-content/Nature & Weather/",
+    "category": "Nature & Weather",
+    "title": "Folded Rock",
+    "type": "Geology",
+    "description": "Rock formation bent by geological pressure.",
+    "image": "Folding_limestone.jpg",
+    "@image": "assets/twist-content/Nature & Weather/Folding_limestone.jpg",
+    "link": "https://en.wikipedia.org/wiki/Fold_%28geology%29"
+  },
+  {
+    "path-extension": "assets/twist-content/Nature & Weather/",
+    "category": "Nature & Weather",
+    "title": "Helical Ice Ribbon",
+    "type": "Ice Formation",
+    "description": "Rare naturally occurring twisted ribbon-like ice.",
+    "image": "hair-ice.jpg",
+    "@image": "assets/twist-content/Nature & Weather/hair-ice.jpg",
+    "link": "https://en.wikipedia.org/wiki/Hair_ice"
+  },
+  {
+    "path-extension": "assets/twist-content/Nature & Weather/",
+    "category": "Nature & Weather",
+    "title": "Twisting Ice Column",
+    "type": "Ice Formation",
+    "description": "Spiral ice formation under unusual freezing conditions.",
+    "image": "twisting-ice-column.jpg",
+    "@image": "assets/twist-content/Nature & Weather/twisting-ice-column.jpg",
+    "link": "https://stock.adobe.com/de/images/ice-spike-hanging-down-from-the-roof-in-winter/256642936"
+  },
+  {
+    "path-extension": "assets/twist-content/Architecture & Buildings/",
+    "category": "Architecture & Buildings",
+    "title": "The Twist",
+    "type": "Museum Bridge/Gallery",
+    "description": "Twisting gallery bridge at Kistefos Museum in Norway designed by BIG.",
+    "image": "twist-museum-bridge.jpg",
+    "@image": "assets/twist-content/Architecture & Buildings/twist-museum-bridge.jpg",
+    "link": "https://www.kistefosmuseum.com/art/the-twist-gallery"
+  },
+  {
+    "path-extension": "assets/twist-content/Architecture & Buildings/",
+    "category": "Architecture & Buildings",
+    "title": "Turning Torso",
+    "type": "Skyscraper",
+    "description": "Twisting residential skyscraper in Malm�, Sweden.",
+    "image": "turning-torso-skyscraper.jpg",
+    "@image": "assets/twist-content/Architecture & Buildings/turning-torso-skyscraper.jpg",
+    "link": "https://en.wikipedia.org/wiki/Turning_Torso"
+  },
+  {
+    "path-extension": "assets/twist-content/Architecture & Buildings/",
+    "category": "Architecture & Buildings",
+    "title": "Cayan Tower",
+    "type": "Skyscraper",
+    "description": "90-degree twisting skyscraper in Dubai Marina, UAE.",
+    "image": "cayan-tower.jpg",
+    "@image": "assets/twist-content/Architecture & Buildings/cayan-tower.jpg",
+    "link": "https://www.som.com/projects/cayan-tower/"
+  },
+  {
+    "path-extension": "assets/twist-content/Architecture & Buildings/",
+    "category": "Architecture & Buildings",
+    "title": "Absolute World Towers",
+    "type": "Residential Towers",
+    "description": "Twin twisting towers in Mississauga, Canada.",
+    "image": "absolute-world-towers.jpg",
+    "@image": "assets/twist-content/Architecture & Buildings/absolute-world-towers.jpg",
+    "link": "https://en.wikipedia.org/wiki/Absolute_World"
+  },
+  {
+    "path-extension": "assets/twist-content/Architecture & Buildings/",
+    "category": "Architecture & Buildings",
+    "title": "F&F Tower (El Tornillo)",
+    "type": "Skyscraper",
+    "description": "Spiral office tower in Panama City, Panama.",
+    "image": "fandftower-skyscraper.jpeg",
+    "@image": "assets/twist-content/Architecture & Buildings/fandftower-skyscraper.jpeg",
+    "link": "https://airial.travel/attractions/panama/panam%C3%A1/ff-tower-el-tornillo-kUotdRjb"
+  },
+  {
+    "path-extension": "assets/twist-content/Architecture & Buildings/",
+    "category": "Architecture & Buildings",
+    "title": "Evolution Tower",
+    "type": "Skyscraper",
+    "description": "Twisting office tower in Moscow, Russia.",
+    "image": "evolution-tower.jpg",
+    "@image": "assets/twist-content/Architecture & Buildings/evolution-tower.jpg",
+    "link": "https://en.wikipedia.org/wiki/Evolution_Tower#/media/File:4Y1A0171_Moscow_(Ninara)_-_Flickr.jpg"
+  },
+  {
+    "path-extension": "assets/twist-content/Architecture & Buildings/",
+    "category": "Architecture & Buildings",
+    "title": "Shanghai Tower",
+    "type": "Skyscraper",
+    "description": "Supertall tower with a twisting fa�ade in Shanghai, China.",
+    "image": "shanghai-tower-skyscraper.jpg",
+    "@image": "assets/twist-content/Architecture & Buildings/shanghai-tower-skyscraper.jpg",
+    "link": "https://en.wikipedia.org/wiki/Shanghai_Tower"
+  },
+  {
+    "path-extension": "assets/twist-content/Architecture & Buildings/",
+    "category": "Architecture & Buildings",
+    "title": "DNA Tower",
+    "type": "Office Tower",
+    "description": "Twisting office building in Taipei inspired by DNA geometry.",
+    "image": "dna-tower.jpg",
+    "@image": "assets/twist-content/Architecture & Buildings/dna-tower.jpg",
+    "link": "https://www.instagram.com/p/DThT-FMkW0K/"
+  },
+  {
+    "path-extension": "assets/twist-content/Architecture & Buildings/",
+    "category": "Architecture & Buildings",
+    "title": "Mode Gakuen Spiral Towers",
+    "type": "Educational Building",
+    "description": "Spiral skyscraper in Nagoya, Japan.",
+    "image": "mode-gakuen-spiral-towers.jpg",
+    "@image": "assets/twist-content/Architecture & Buildings/mode-gakuen-spiral-towers.jpg",
+    "link": "https://en.wikipedia.org/wiki/Mode_Gakuen_Spiral_Towers#/media/File:Nagoya_Mode_Gakuen_Spiral_Towers.jpg"
+  },
+  {
+    "path-extension": "assets/twist-content/Architecture & Buildings/",
+    "category": "Architecture & Buildings",
+    "title": "Tornado Tower",
+    "type": "Skyscraper",
+    "description": "High-rise tower in Doha, Qatar with twisting form.",
+    "image": "tornado-tower.jpg",
+    "@image": "assets/twist-content/Architecture & Buildings/tornado-tower.jpg",
+    "link": "https://www.skyscrapercenter.com/doha/tornado-tower/1677"
+  },
+  {
+    "path-extension": "assets/twist-content/Architecture & Buildings/",
+    "category": "Architecture & Buildings",
+    "title": "The Helix Bridge",
+    "type": "Pedestrian Bridge",
+    "description": "DNA-inspired pedestrian bridge in Singapore.",
+    "image": "helix-bridge-singapore.jpg",
+    "@image": "assets/twist-content/Architecture & Buildings/helix-bridge-singapore.jpg",
+    "link": "https://blightrayner.com.au/jayson-blight-michael-rayner/helix-pedestrian-bridge/"
+  },
+  {
+    "path-extension": "assets/twist-content/Architecture & Buildings/",
+    "category": "Architecture & Buildings",
+    "title": "millennium bridge london",
+    "type": "Pedestrian Bridge",
+    "description": "Suspension bridge in London, United Kingdom",
+    "image": "the-millennium-bridge-london.jpeg",
+    "@image": "assets/twist-content/Architecture & Buildings/the-millennium-bridge-london.jpeg",
+    "link": "https://www.researchgate.net/figure/The-Millennium-Bridge-London_fig1_282483496"
+  },
+  {
+    "path-extension": "assets/twist-content/Knitting & Weaving/",
+    "category": "Knitting & Weaving",
+    "title": "Twisted Stitch",
+    "type": "Knitting Technique",
+    "description": "A stitch worked through the back loop to create a tighter twisted appearance.",
+    "image": "twist-stitch.jpg",
+    "@image": "assets/twist-content/Knitting & Weaving/twist-stitch.jpg",
+    "link": "http://www.arendaholladay.com/2014/04/twisted-stitches.html"
+  },
+  {
+    "path-extension": "assets/twist-content/Knitting & Weaving/",
+    "category": "Knitting & Weaving",
+    "title": "Twisted Rib",
+    "type": "Knitting Pattern",
+    "description": "Ribbing pattern using twisted knit stitches for added definition.",
+    "image": "twisted-rib.jpg",
+    "@image": "assets/twist-content/Knitting & Weaving/twisted-rib.jpg",
+    "link": "https://www.craftsy.com/post/twisted-rib"
+  },
+  {
+    "path-extension": "assets/twist-content/Knitting & Weaving/",
+    "category": "Knitting & Weaving",
+    "title": "Twisted Cable",
+    "type": "Knitting Technique",
+    "description": "Cable motif formed by crossing stitches into a twist.",
+    "image": "cable-twisting.jpg",
+    "@image": "assets/twist-content/Knitting & Weaving/cable-twisting.jpg",
+    "link": "https://www.knittingkingdom.com/free-staghorn-cable-knitting-stitch/"
+  },
+  {
+    "path-extension": "assets/twist-content/Knitting & Weaving/",
+    "category": "Knitting & Weaving",
+    "title": "Twisted Yarn",
+    "type": "Fiber",
+    "description": "Yarn created by twisting multiple plies together.",
+    "image": "twisted-yarn.jpg",
+    "@image": "assets/twist-content/Knitting & Weaving/twisted-yarn.jpg",
+    "link": "https://www.sinrylion.com/news-show-1034759.html"
+  },
+  {
+    "path-extension": "assets/twist-content/Knitting & Weaving/",
+    "category": "Knitting & Weaving",
+    "title": "S-Twist Yarn",
+    "type": "Spinning",
+    "description": "Yarn spun with fibers angled like the center of the letter S.",
+    "image": "z-and-s-spinning.jpeg",
+    "@image": "assets/twist-content/Knitting & Weaving/z-and-s-spinning.jpeg",
+    "link": "https://brankaontextiles.com/z-s-directions-spinning-textile-how-ancient-women-once-wove-monochrome-patterns-with-light-and-shadows-in-the-beholders-eye/"
+  },
+  {
+    "path-extension": "assets/twist-content/Knitting & Weaving/",
+    "category": "Knitting & Weaving",
+    "title": "Z-Twist Yarn",
+    "type": "Spinning",
+    "description": "Yarn spun with fibers angled like the center of the letter Z.",
+    "image": "z-and-s-spinning.jpeg",
+    "@image": "assets/twist-content/Knitting & Weaving/z-and-s-spinning.jpeg",
+    "link": "https://brankaontextiles.com/z-s-directions-spinning-textile-how-ancient-women-once-wove-monochrome-patterns-with-light-and-shadows-in-the-beholders-eye/"
+  },
+  {
+    "path-extension": "assets/twist-content/Knitting & Weaving/",
+    "category": "Knitting & Weaving",
+    "title": "Ply Twist",
+    "type": "Spinning",
+    "description": "The twist used to combine multiple singles into plied yarn.",
+    "image": "ply-twist-spinning.jpg",
+    "@image": "assets/twist-content/Knitting & Weaving/ply-twist-spinning.jpg",
+    "link": "https://www.sciencedirect.com/topics/engineering/ply-twisting"
+  },
+  {
+    "path-extension": "assets/twist-content/Knitting & Weaving/",
+    "category": "Knitting & Weaving",
+    "title": "Singles Twist",
+    "type": "Spinning",
+    "description": "Initial twist inserted into spun fibers before plying.",
+    "image": "single-twist-spin.jpg",
+    "@image": "assets/twist-content/Knitting & Weaving/single-twist-spin.jpg",
+    "link": "https://spinoffmagazine.com/how-to-make-yarn-the-essential-guide-to-spinning-yarn-for-beginners/"
+  },
+  {
+    "path-extension": "assets/twist-content/Knitting & Weaving/",
+    "category": "Knitting & Weaving",
+    "title": "Cable Ply",
+    "type": "Spinning",
+    "description": "Technique using additional twisting to produce cable yarn.",
+    "image": "cable-ply-spin.jpg",
+    "@image": "assets/twist-content/Knitting & Weaving/cable-ply-spin.jpg",
+    "link": "https://bluebarnblog.weebly.com/blog/spinning-techniques-cable-yarn"
+  },
+  {
+    "path-extension": "assets/twist-content/Knitting & Weaving/",
+    "category": "Knitting & Weaving",
+    "title": "Twined Knitting",
+    "type": "Historic Textile Technique",
+    "description": "Ancient textile method involving twisting adjacent loops together.",
+    "image": "twined-knitting.jpg",
+    "@image": "assets/twist-content/Knitting & Weaving/twined-knitting.jpg",
+    "link": "https://en.wikipedia.org/wiki/Twined_knitting"
+  },
+  {
+    "path-extension": "assets/twist-content/Knitting & Weaving/",
+    "category": "Knitting & Weaving",
+    "title": "Twining",
+    "type": "Weaving Technique",
+    "description": "Construction method using twisted weft elements around warp threads.",
+    "image": "twining.jpg",
+    "@image": "assets/twist-content/Knitting & Weaving/twining.jpg",
+    "link": "https://peggyosterkamp.com/2021/03/twining/"
+  },
+  {
+    "path-extension": "assets/twist-content/Knitting & Weaving/",
+    "category": "Knitting & Weaving",
+    "title": "Tablet Weaving Twist",
+    "type": "Weaving Technique",
+    "description": "Twists produced by rotating weaving tablets during weaving.",
+    "image": "tablet-weaving.jpg",
+    "@image": "assets/twist-content/Knitting & Weaving/tablet-weaving.jpg",
+    "link": "https://en.wikipedia.org/wiki/Tablet_weaving"
+  },
+  {
+    "path-extension": "assets/twist-content/Knitting & Weaving/",
+    "category": "Knitting & Weaving",
+    "title": "Warp Twist",
+    "type": "Weaving Term",
+    "description": "Twist direction present in warp yarns.",
+    "image": "warp-and-weft.jpg",
+    "@image": "assets/twist-content/Knitting & Weaving/warp-and-weft.jpg",
+    "link": "https://en.wikipedia.org/wiki/Warp_and_weft#/media/File:Warp_and_weft_2.jpg"
+  },
+  {
+    "path-extension": "assets/twist-content/Knitting & Weaving/",
+    "category": "Knitting & Weaving",
+    "title": "Weft Twist",
+    "type": "Weaving Term",
+    "description": "Twist direction present in weft yarns.",
+    "image": "warp-and-weft.jpg",
+    "@image": "assets/twist-content/Knitting & Weaving/warp-and-weft.jpg",
+    "link": "https://en.wikipedia.org/wiki/Warp_and_weft#/media/File:Warp_and_weft_2.jpg"
+  },
+  {
+    "path-extension": "assets/twist-content/Knitting & Weaving/",
+    "category": "Knitting & Weaving",
+    "title": "Overtwist",
+    "type": "Yarn Defect",
+    "description": "Excessive twist causing yarn to kink.",
+    "image": "overtwist-yarn.jpg",
+    "@image": "assets/twist-content/Knitting & Weaving/overtwist-yarn.jpg",
+    "link": "https://spinoffmagazine.com/overtwisted-no-more-reconsidering-the-possibilities-of-high-energy-yarns/"
+  },
+  {
+    "path-extension": "assets/twist-content/Knitting & Weaving/",
+    "category": "Knitting & Weaving",
+    "title": "Balanced Twist",
+    "type": "Spinning",
+    "description": "Twist level that minimizes curling and distortion.",
+    "image": "balanced-twist-spinning.jpg",
+    "@image": "assets/twist-content/Knitting & Weaving/balanced-twist-spinning.jpg",
+    "link": "https://spinoffmagazine.com/3-simple-tips-to-achieve-balanced-yarn/"
+  },
+  {
+    "path-extension": "assets/twist-content/Knitting & Weaving/",
+    "category": "Knitting & Weaving",
+    "title": "Crepe Yarn",
+    "type": "Specialty Yarn",
+    "description": "Highly twisted yarn producing textured fabrics.",
+    "image": "crepe-yarn.jpg",
+    "@image": "assets/twist-content/Knitting & Weaving/crepe-yarn.jpg",
+    "link": "https://www.sinrylion.com/news-show-901688.html"
+  },
+  {
+    "path-extension": "assets/twist-content/Knitting & Weaving/",
+    "category": "Knitting & Weaving",
+    "title": "Twist Angle",
+    "type": "Textile Science",
+    "description": "Angle formed by fibers around the yarn axis.",
+    "image": "twist-angle.jpeg",
+    "@image": "assets/twist-content/Knitting & Weaving/twist-angle.jpeg",
+    "link": "https://brankaontextiles.com/z-s-twists-knitting-crocheting-how-can-yarn-twisting-spoil-knitted-and-crocheted-textile-works/"
+  },
+  {
+    "path-extension": "assets/twist-content/Knitting & Weaving/",
+    "category": "Knitting & Weaving",
+    "title": "False Twist Texturing",
+    "type": "Textile Manufacturing",
+    "description": "Process adding texture by twisting and heat-setting synthetic yarns.",
+    "image": "false-twister.jpg",
+    "@image": "assets/twist-content/Knitting & Weaving/false-twister.jpg",
+    "link": "https://www.sciencedirect.com/topics/engineering/false-twister"
+  },
+  {
+    "path-extension": "assets/twist-content/Knitting & Weaving/",
+    "category": "Knitting & Weaving",
+    "title": "Twisted Fringe",
+    "type": "Finishing Technique",
+    "description": "Decorative edge created by twisting warp ends together.",
+    "image": "twisted-fringe.jpg",
+    "@image": "assets/twist-content/Knitting & Weaving/twisted-fringe.jpg",
+    "link": "https://www.craftsy.com/post/scarf-twisted-fringe"
+  },
+  {
+    "path-extension": "assets/twist-content/Science & Technology/",
+    "category": "Science & Technology",
+    "title": "Twisted Pair Cable",
+    "type": "Networking",
+    "description": "Balanced copper cable used for Ethernet and telecommunications.",
+    "image": "twisted-paircable.jpg",
+    "@image": "assets/twist-content/Science & Technology/twisted-paircable.jpg",
+    "link": "https://stl.tech/blog/network-connectivity-with-twisted-pair-cables/"
+  },
+  {
+    "path-extension": "assets/twist-content/Science & Technology/",
+    "category": "Science & Technology",
+    "title": "Shielded Twisted Pair (STP)",
+    "type": "Networking",
+    "description": "Twisted pair cable with electromagnetic shielding.",
+    "image": "shielded-twisted-pair.jpg",
+    "@image": "assets/twist-content/Science & Technology/shielded-twisted-pair.jpg",
+    "link": "https://medium.com/@julydd/stp-vs-utp-which-one-is-better-96e6fc612afa"
+  },
+  {
+    "path-extension": "assets/twist-content/Science & Technology/",
+    "category": "Science & Technology",
+    "title": "Unshielded Twisted Pair (UTP)",
+    "type": "Networking",
+    "description": "Most common Ethernet cabling without additional shielding.",
+    "image": "utp-unshielded.jpg",
+    "@image": "assets/twist-content/Science & Technology/utp-unshielded.jpg",
+    "link": "https://medium.com/@julydd/stp-vs-utp-which-one-is-better-96e6fc612afa"
+  },
+  {
+    "path-extension": "assets/twist-content/Science & Technology/",
+    "category": "Science & Technology",
+    "title": "Twisted Nematic (TN) Display",
+    "type": "Display Technology",
+    "description": "LCD technology using twisted liquid crystals.",
+    "image": "tn-display.jpg",
+    "@image": "assets/twist-content/Science & Technology/tn-display.jpg",
+    "link": "https://rjoytek.com/twisted-nematic-lcd-guide/"
+  },
+  {
+    "path-extension": "assets/twist-content/Science & Technology/",
+    "category": "Science & Technology",
+    "title": "Super Twisted Nematic (STN) Display",
+    "type": "Display Technology",
+    "description": "Enhanced LCD technology with improved multiplexing.",
+    "image": "stn-principle.jpg",
+    "@image": "assets/twist-content/Science & Technology/stn-principle.jpg",
+    "link": "https://www.andersdx.com/stn-super-twisted-nematic/"
+  },
+  {
+    "path-extension": "assets/twist-content/Science & Technology/",
+    "category": "Science & Technology",
+    "title": "Twisted Bilayer Graphene",
+    "type": "Materials Science",
+    "description": "Two graphene sheets rotated to exhibit novel electronic behavior.",
+    "image": "twisted-bilayer-graphene.jpg",
+    "@image": "assets/twist-content/Science & Technology/twisted-bilayer-graphene.jpg",
+    "link": "https://physicstoday.aip.org/news/twisted-bilayer-graphene-enters-a-new-phase"
+  },
+  {
+    "path-extension": "assets/twist-content/Science & Technology/",
+    "category": "Science & Technology",
+    "title": "Magic-Angle Twisted Bilayer Graphene",
+    "type": "Condensed Matter Physics",
+    "description": "Twisted graphene at a specific angle exhibiting superconducting properties.",
+    "image": "magic-angle-twisted.jpg",
+    "@image": "assets/twist-content/Science & Technology/magic-angle-twisted.jpg",
+    "link": "https://news.mit.edu/2020/twists-magic-angle-graphene-map-0508"
+  },
+  {
+    "path-extension": "assets/twist-content/Science & Technology/",
+    "category": "Science & Technology",
+    "title": "Twisted Ring Counter",
+    "type": "Digital Electronics",
+    "description": "Sequential logic circuit also known as a Johnson counter.",
+    "image": "twisted-ring-counter.png",
+    "@image": "assets/twist-content/Science & Technology/twisted-ring-counter.png",
+    "link": "https://www.geeksforgeeks.org/digital-logic/difference-between-straight-ring-counter-and-twisted-ring-counter/"
+  },
+  {
+    "path-extension": "assets/twist-content/Science & Technology/",
+    "category": "Science & Technology",
+    "title": "Twisted Photon",
+    "type": "Quantum Physics",
+    "description": "Photon carrying orbital angular momentum.",
+    "image": "twisted-photons.png",
+    "@image": "assets/twist-content/Science & Technology/twisted-photons.png",
+    "link": "https://www.nature.com/articles/nphys607"
+  },
+  {
+    "path-extension": "assets/twist-content/Science & Technology/",
+    "category": "Science & Technology",
+    "title": "Twisted Light",
+    "type": "Optics",
+    "description": "Light beam possessing orbital angular momentum.",
+    "image": "twisted-light.jpg",
+    "@image": "assets/twist-content/Science & Technology/twisted-light.jpg",
+    "link": "https://www.science.org/doi/10.1126/science.aaw9486"
+  },
+  {
+    "path-extension": "assets/twist-content/Science & Technology/",
+    "category": "Science & Technology",
+    "title": "Twisted String Actuator",
+    "type": "Robotics",
+    "description": "Mechanism converting rotary motion into linear motion.",
+    "image": "twisted-string-actuator.png",
+    "@image": "assets/twist-content/Science & Technology/twisted-string-actuator.png",
+    "link": "https://www.semanticscholar.org/paper/Control-of-and-experimentation-on-an-active-twisted-Jeong-Kim/34862811b266f97c8cac9d9b26dad6d564746ca0/figure/0"
+  },
+  {
+    "path-extension": "assets/twist-content/Science & Technology/",
+    "category": "Science & Technology",
+    "title": "Twisted Wire Pair",
+    "type": "Electrical Engineering",
+    "description": "Paired conductors twisted together to reduce interference.",
+    "image": "twisted-wire-pair.jpg",
+    "@image": "assets/twist-content/Science & Technology/twisted-wire-pair.jpg",
+    "link": "https://pittsburghpower.com/blogs/news/twisted-pair-wiring?srsltid=AfmBOoowI5zICa5eyK8398pN1eDRxWJXHZeLE2SFqxA-floaLIhUdr8w"
+  },
+  {
+    "path-extension": "assets/twist-content/Science & Technology/",
+    "category": "Science & Technology",
+    "title": "Twisted Tape Insert",
+    "type": "Thermal Engineering",
+    "description": "Spiral insert used to improve heat transfer in pipes.",
+    "image": "twisted-tape.jpg",
+    "@image": "assets/twist-content/Science & Technology/twisted-tape.jpg",
+    "link": "https://www.researchgate.net/figure/Selected-modified-twisted-tapes-from-previous-study-to-campared-with-present-study_fig7_333795228"
+  },
+  {
+    "path-extension": "assets/twist-content/Science & Technology/",
+    "category": "Science & Technology",
+    "title": "Twist Drill",
+    "type": "Manufacturing Tool",
+    "description": "Standard spiral drill used in machining operations.",
+    "image": "twist_drill_bits.jpg",
+    "@image": "assets/twist-content/Science & Technology/twist_drill_bits.jpg",
+    "link": "https://www.dictoolsindia.com/hss-cutting-tools/twist-drill-bits.php"
+  },
+  {
+    "path-extension": "assets/twist-content/Science & Technology/",
+    "category": "Science & Technology",
+    "title": "Twist Lock Connector",
+    "type": "Electrical Connector",
+    "description": "Locking electrical connector using a twist mechanism.",
+    "image": "twist-lock-plug.jpg",
+    "@image": "assets/twist-content/Science & Technology/twist-lock-plug.jpg",
+    "link": "https://www.dwyeromega.com/en-gb/twist-lock-connectors-for-pressure-transducers-and-load-cells/p/PT06F"
+  },
+  {
+    "path-extension": "assets/twist-content/Science & Technology/",
+    "category": "Science & Technology",
+    "title": "Twist-On Wire Connector",
+    "type": "Electrical Component",
+    "description": "Insulated connector used to join electrical wires.",
+    "image": "twist-on-wire-connector.jpg",
+    "@image": "assets/twist-content/Science & Technology/twist-on-wire-connector.jpg",
+    "link": "https://www.thewireszone.com/products/twist-type-wire-connector-wire-nuts-awg-22-14-ul-listed-blue-1000-pcs?srsltid=AfmBOopC7H_9P3fWOUd-xh9MohBMaHGtVtCm3AcBrclWiLVpUfTtbQ3m"
+  },
+  {
+    "path-extension": "assets/twist-content/Science & Technology/",
+    "category": "Science & Technology",
+    "title": "Twist-Lock Plug",
+    "type": "Electrical Hardware",
+    "description": "Plug designed to lock into place by rotation.",
+    "image": "twist-lock-connector.jpg",
+    "@image": "assets/twist-content/Science & Technology/twist-lock-connector.jpg",
+    "link": "https://www.amazon.de/-/en/Twist-Lock-Connector-125V-250V-Connector-connecting/dp/B088ZXY7XH"
+  },
+  {
+    "path-extension": "assets/twist-content/Science & Technology/",
+    "category": "Science & Technology",
+    "title": "Twist Capsule",
+    "type": "Pharmaceutical Packaging",
+    "description": "Capsule design opened by twisting halves apart.",
+    "image": "twist-capsule.jpg",
+    "@image": "assets/twist-content/Science & Technology/twist-capsule.jpg",
+    "link": "https://www.jinlupacking.com/blogs/how-to-divide-a-capsule-safely/"
+  },
+  {
+    "path-extension": "assets/twist-content/Science & Technology/",
+    "category": "Science & Technology",
+    "title": "Twist-Off Cap",
+    "type": "Packaging Technology",
+    "description": "Metal cap removed by twisting from glass containers.",
+    "image": "twist-caps-bottle.jpg",
+    "@image": "assets/twist-content/Science & Technology/twist-caps-bottle.jpg",
+    "link": "https://www.quantixcap.com/twist-to-activate-caps-manufacturer/"
+  },
+  {
+    "path-extension": "assets/twist-content/Science & Technology/",
+    "category": "Science & Technology",
+    "title": "Twist-Beam Rear Suspension",
+    "type": "Automotive Engineering",
+    "description": "Vehicle suspension design using a torsion beam.",
+    "image": "twist-beam.jpg",
+    "@image": "assets/twist-content/Science & Technology/twist-beam.jpg",
+    "link": "https://en.wikipedia.org/wiki/Twist-beam_rear_suspension"
+  },
+  {
+    "path-extension": "assets/twist-content/Food & Drink/",
+    "category": "Food & Drink",
+    "title": "Lemon Twist",
+    "type": "Garnish",
+    "description": "Strip of lemon peel commonly used to garnish cocktails.",
+    "image": "lemon-twist.png",
+    "@image": "assets/twist-content/Food & Drink/lemon-twist.png",
+    "link": "https://toriavey.com/how-to-make-a-lemon-or-lime-twist/"
+  },
+  {
+    "path-extension": "assets/twist-content/Food & Drink/",
+    "category": "Food & Drink",
+    "title": "Orange Twist",
+    "type": "Garnish",
+    "description": "Orange peel garnish used in mixed drinks and desserts.",
+    "image": "orange-twist.jpg",
+    "@image": "assets/twist-content/Food & Drink/orange-twist.jpg",
+    "link": "https://www.stockfood.com/images/00631275-Orange-Twist-Garnish"
+  },
+  {
+    "path-extension": "assets/twist-content/Food & Drink/",
+    "category": "Food & Drink",
+    "title": "Lime Twist",
+    "type": "Garnish",
+    "description": "Lime peel garnish for cocktails and culinary presentation.",
+    "image": "lime-twist.jpg",
+    "@image": "assets/twist-content/Food & Drink/lime-twist.jpg",
+    "link": "https://www.dreamstime.com/royalty-free-stock-photo-lime-twist-garnish-rim-martini-glass-used-as-isolated-black-background-image33020375"
+  },
+  {
+    "path-extension": "assets/twist-content/Food & Drink/",
+    "category": "Food & Drink",
+    "title": "Twist Cone",
+    "type": "Dessert",
+    "description": "Soft-serve ice cream combining two flavors in a spiral.",
+    "image": "twist-cone-dessert.jpg",
+    "@image": "assets/twist-content/Food & Drink/twist-cone-dessert.jpg",
+    "link": "https://www.mcdonalds.com/us/en-us/product/twist-cone-large.html"
+  },
+  {
+    "path-extension": "assets/twist-content/Food & Drink/",
+    "category": "Food & Drink",
+    "title": "Twisted Donut",
+    "type": "Pastry",
+    "description": "Twisted yeast dough pastry popular in many bakeries.",
+    "image": "twisted-donuts.jpg",
+    "@image": "assets/twist-content/Food & Drink/twisted-donuts.jpg",
+    "link": "https://thesubversivetable.com/korean-donuts/"
+  },
+  {
+    "path-extension": "assets/twist-content/Food & Drink/",
+    "category": "Food & Drink",
+    "title": "Twisted Pretzel",
+    "type": "Baked Good",
+    "description": "Traditional twisted bread snack made from yeasted dough.",
+    "image": "twisted-pretzel.jpg",
+    "@image": "assets/twist-content/Food & Drink/twisted-pretzel.jpg",
+    "link": "https://www.eurobake.us/all-products/large-soft-pretzel-twist-10-oz/"
+  },
+  {
+    "path-extension": "assets/twist-content/Food & Drink/",
+    "category": "Food & Drink",
+    "title": "Twister Cocktail",
+    "type": "Cocktail",
+    "description": "Mixed drink name used for several citrus-based cocktail recipes.",
+    "image": "twist-cocktail.jpg",
+    "@image": "assets/twist-content/Food & Drink/twist-cocktail.jpg",
+    "link": "https://de.wikipedia.org/wiki/Twist_%28Cocktail%29#/media/Datei:The_perfect_martini.jpg"
+  },
+  {
+    "path-extension": "assets/twist-content/Food & Drink/",
+    "category": "Food & Drink",
+    "title": "Twisted Colada",
+    "type": "Cocktail",
+    "description": "Variation on the pi�a colada recipe.",
+    "image": "twisted-colada.jpg",
+    "@image": "assets/twist-content/Food & Drink/twisted-colada.jpg",
+    "link": "https://ufcrefreshcoco.com/recipe/twisted-colada/"
+  },
+  {
+    "path-extension": "assets/twist-content/Food & Drink/",
+    "category": "Food & Drink",
+    "title": "Twisted Margarita",
+    "type": "Cocktail",
+    "description": "Margarita prepared with an unconventional flavor variation.",
+    "image": "twisted-margatrita.jpg",
+    "@image": "assets/twist-content/Food & Drink/twisted-margatrita.jpg",
+    "link": "https://thetinyfairy.com/classic-margarita-with-a-tiny-twist/"
+  },
+  {
+    "path-extension": "assets/twist-content/Food & Drink/",
+    "category": "Food & Drink",
+    "title": "Twisted Fries",
+    "type": "Side Dish",
+    "description": "Spiral-cut fried potatoes.",
+    "image": "tornado-potatoes.jpg",
+    "@image": "assets/twist-content/Food & Drink/tornado-potatoes.jpg",
+    "link": "https://www.crunchtimekitchen.com/chili-tornado-potatoes/"
+  },
+  {
+    "path-extension": "assets/twist-content/Food & Drink/",
+    "category": "Food & Drink",
+    "title": "curly fries",
+    "type": "Side Dish",
+    "description": "french fries cut into a spiral shape.",
+    "image": "curly-fries.jpg",
+    "@image": "assets/twist-content/Food & Drink/curly-fries.jpg",
+    "link": "https://www.deliciouslyseasoned.com/curly-fries-in-air-fryer-recipe/"
+  },
+  {
+    "path-extension": "assets/twist-content/Dance/",
+    "category": "Dance",
+    "title": "The Twist",
+    "type": "Social Dance",
+    "description": "Iconic social dance popularized internationally in the early 1960s.",
+    "image": "twist-dance.jpg",
+    "@image": "assets/twist-content/Dance/twist-dance.jpg",
+    "link": "https://www.facebook.com/groups/159700503902/posts/10158503754928903/"
+  },
+  {
+    "path-extension": "assets/twist-content/Dance/",
+    "category": "Dance",
+    "title": "Twist Dance Craze",
+    "type": "Dance Movement",
+    "description": "Worldwide dance phenomenon inspired by Chubby Checker.",
+    "image": "twist-chubby-checker.jpg",
+    "@image": "assets/twist-content/Dance/twist-chubby-checker.jpg",
+    "link": "https://www.britannica.com/biography/Chubby-Checker"
+  },
+  {
+    "path-extension": "assets/twist-content/Dance/",
+    "category": "Dance",
+    "title": "Twist Step",
+    "type": "Dance Step",
+    "description": "Basic side-to-side footwork characteristic of the Twist.",
+    "image": "twist-dance-step.jpg",
+    "@image": "assets/twist-content/Dance/twist-dance-step.jpg",
+    "link": "https://www.wikihow.com/Do-the-Twist"
+  },
+  {
+    "path-extension": "assets/twist-content/Dance/",
+    "category": "Dance",
+    "title": "Twist Contest",
+    "type": "Dance Competition",
+    "description": "Popular competition format during the Twist era.",
+    "image": "twist-contest.png",
+    "@image": "assets/twist-content/Dance/twist-contest.png",
+    "link": "https://www.youtube.com/watch?v=PJFoai3Ay1c"
+  },
+  {
+    "path-extension": "assets/twist-content/Dance/",
+    "category": "Dance",
+    "title": "Twist Routine",
+    "type": "Choreography",
+    "description": "Dance routine built around Twist movements.",
+    "image": "twist-routine.png",
+    "@image": "assets/twist-content/Dance/twist-routine.png",
+    "link": "https://www.youtube.com/watch?v=d2OWdtUkxmQ"
+  },
+  {
+    "path-extension": "assets/twist-content/Dance/",
+    "category": "Dance",
+    "title": "Twist Spin",
+    "type": "Dance Move",
+    "description": "Spin incorporating twisting body rotation.",
+    "image": "twist-spin.png",
+    "@image": "assets/twist-content/Dance/twist-spin.png",
+    "link": "https://www.youtube.com/watch?v=GBI3OAK_bEg"
+  },
+  {
+    "path-extension": "assets/twist-content/Dance/",
+    "category": "Dance",
+    "title": "Hip Twist",
+    "type": "Ballroom Technique",
+    "description": "Hip action used in Latin ballroom dances.",
+    "image": "hip-twist.png",
+    "@image": "assets/twist-content/Dance/hip-twist.png",
+    "link": "https://www.google.com/search?sa=X&sca_esv=655416a2e67afe4b&rlz=1C5OZZY_enGB1163GB1163&sxsrf=ANbL-n43RaYq1aNuCi4x10tQjVA5tZkr1Q:1781520244498&udm=7&fbs=ADc_l-aN0CWEZBOHjofHoaMMDiKpaEWjvZ2Py1XXV8d8KvlI3p-ML-906rRL_m6h4jR-tdCxBFclHzwKDiHvylkdME936GbOli2fAoBa0LlI3hEalx45IIm8SL9xYoK_fRednMUE3wEJlCmrdEivHOBcFSyyJDXs2TxxpyZWL_1S0Bb86mteuvV5esjHebsQICXN5TJZUMstGoO2B4UVBXxRJebEBjbWeA&q=Hip+Twist+Ballroom+Technique&ved=2ahUKEwi9gtWKiImVAxVqQ_EDHQe9O3kQtKgLegQIDxAB&biw=732&bih=661&dpr=2#fpstate=ive&vld=cid:76aac25d,vid:sIXctn7lyo8,st:0"
+  },
+  {
+    "path-extension": "assets/twist-content/Dance/",
+    "category": "Dance",
+    "title": "Cuban Twist",
+    "type": "Latin Dance Technique",
+    "description": "Rotational hip movement associated with Cuban dance styles.",
+    "image": "cuban-twist-cha-cha-dance.jpg",
+    "@image": "assets/twist-content/Dance/cuban-twist-cha-cha-dance.jpg",
+    "link": "https://en.wikipedia.org/wiki/Cha-cha-cha_%28dance%29"
+  },
+  {
+    "path-extension": "assets/twist-content/Dance/",
+    "category": "Dance",
+    "title": "Twisting Lift",
+    "type": "Acrobatic Dance Move",
+    "description": "Dance lift incorporating a rotational twist.",
+    "image": "twist-lift.png",
+    "@image": "assets/twist-content/Dance/twist-lift.png",
+    "link": "https://www.tiktok.com/@trainwithkendall/video/7067942833096772910"
+  },
+  {
+    "path-extension": "assets/twist-content/Dance/",
+    "category": "Dance",
+    "title": "Pulp Fiction Twist Contest",
+    "type": "Film Scene",
+    "description": "Iconic twist dance performed by John Travolta and Uma Thurman.",
+    "image": "pulp-fiction-twist-dance.jpg",
+    "@image": "assets/twist-content/Dance/pulp-fiction-twist-dance.jpg",
+    "link": "https://motifsandprints.com/product/pulp-fiction-twist-dance/"
+  },
+  {
+    "path-extension": "assets/twist-content/Dance/",
+    "category": "Dance",
+    "title": "The Rainbow Twist",
+    "type": "Dance Movement",
+    "description": "An advanced dance trick combining a handstand, a rainbow, and a rotation.",
+    "image": "rainbow-twist.jpg",
+    "@image": "assets/twist-content/Dance/rainbow-twist.jpg",
+    "link": "https://www.youtube.com/watch?v=4Tw63Q1J6Ts"
+  },
+  {
+    "path-extension": "assets/twist-content/Dance/",
+    "category": "Dance",
+    "title": "Heel/Toe Twists:",
+    "type": "Dance Movement",
+    "description": ": Fast-paced hip-hop footwork executed by jumping onto the heel or toe and rotating on the axis",
+    "image": "twist-heel-toe.png",
+    "@image": "assets/twist-content/Dance/twist-heel-toe.png",
+    "link": "https://www.youtube.com/watch?v=sFvnVk9UFv4"
+  },
+  {
+    "path-extension": "assets/twist-content/Artists & Bands/",
+    "category": "Artists & Bands",
+    "title": "Twisted Sister",
+    "type": "Band",
+    "description": "American heavy metal band formed in 1972, best known for 'We're Not Gonna Take It'.",
+    "image": "twisted-sister-band.jpg",
+    "@image": "assets/twist-content/Artists & Bands/twisted-sister-band.jpg",
+    "link": "https://www.rollingstone.com/music/music-news/twisted-sisters-dee-snider-on-destroying-disco-why-lemmy-was-an-angel-181187/"
+  },
+  {
+    "path-extension": "assets/twist-content/Artists & Bands/",
+    "category": "Artists & Bands",
+    "title": "Twisted Wheel",
+    "type": "Band",
+    "description": "English indie rock band formed in Oldham, England.",
+    "image": "twisted-wheel-band.png",
+    "@image": "assets/twist-content/Artists & Bands/twisted-wheel-band.png",
+    "link": "https://en.wikipedia.org/wiki/Twisted_Wheel_%28album%29"
+  },
+  {
+    "path-extension": "assets/twist-content/Artists & Bands/",
+    "category": "Artists & Bands",
+    "title": "Twisted Method",
+    "type": "Band",
+    "description": "American rap-metal band active in the early 2000s.",
+    "image": "twisted-method.jpg",
+    "@image": "assets/twist-content/Artists & Bands/twisted-method.jpg",
+    "link": "https://www.facebook.com/PageNumetal01/posts/twisted-methodtwistedmethod-numetal-pagenumetal/1471504724231845/"
+  },
+  {
+    "path-extension": "assets/twist-content/Artists & Bands/",
+    "category": "Artists & Bands",
+    "title": "Twisted Black",
+    "type": "Artist",
+    "description": "American rapper from Detroit associated with the Dallas hip-hop scene.",
+    "image": "twisted-black.jpg",
+    "@image": "assets/twist-content/Artists & Bands/twisted-black.jpg",
+    "link": "https://www.fwweekly.com/2010/04/14/twisted-black-rhymes-on/"
+  },
+  {
+    "path-extension": "assets/twist-content/Artists & Bands/",
+    "category": "Artists & Bands",
+    "title": "Twista",
+    "type": "Artist",
+    "description": "Chicago rapper known for his exceptionally fast delivery and mainstream hits.",
+    "image": "twista-band.jpg",
+    "@image": "assets/twist-content/Artists & Bands/twista-band.jpg",
+    "link": "https://en.wikipedia.org/wiki/Twista"
+  },
+  {
+    "path-extension": "assets/twist-content/Artists & Bands/",
+    "category": "Artists & Bands",
+    "title": "Twisted Insane",
+    "type": "Artist",
+    "description": "American rapper recognized for rapid-fire lyrical style.",
+    "image": "twisted-insane.jpg",
+    "@image": "assets/twist-content/Artists & Bands/twisted-insane.jpg",
+    "link": "https://soundcloud.com/twisted-insane/feed-me-more?in=user495993002%2Fsets%2Ftwisted-insane"
+  },
+  {
+    "path-extension": "assets/twist-content/Artists & Bands/",
+    "category": "Artists & Bands",
+    "title": "Twisted Rootz",
+    "type": "Band",
+    "description": "Reggae and roots music group.",
+    "image": "twisted-roots-band.jpg",
+    "@image": "assets/twist-content/Artists & Bands/twisted-roots-band.jpg",
+    "link": "https://www.discogs.com/artist/503765-Twisted-Roots-2?srsltid=AfmBOooesD8O31Adlh1J2eKRj5Na7C2QzZEpY1vr-d5Uy5DFx3GzmPr4"
+  },
+  {
+    "path-extension": "assets/twist-content/Artists & Bands/",
+    "category": "Artists & Bands",
+    "title": "The Twisters",
+    "type": "Band",
+    "description": "Canadian blues band known for award-winning recordings.",
+    "image": "the-twisters.jpg",
+    "@image": "assets/twist-content/Artists & Bands/the-twisters.jpg",
+    "link": "https://www.marmosetmusic.com/artists/the-twisters"
+  },
+  {
+    "path-extension": "assets/twist-content/Artists & Bands/",
+    "category": "Artists & Bands",
+    "title": "Twisted Tower Dire",
+    "type": "Band",
+    "description": "American heavy metal band formed in Virginia.",
+    "image": "twisted-tower-dire.jpg",
+    "@image": "assets/twist-content/Artists & Bands/twisted-tower-dire.jpg",
+    "link": "https://www.earsplitcompound.com/twisted-tower-dire-decibel-magazine-streams-the-reflecting-pool-as-nameless-grave-records-prepares-to-release-crest-of-the-martyrs-demos-from-virginia-heavy-metal-act/"
+  },
+  {
+    "path-extension": "assets/twist-content/Artists & Bands/",
+    "category": "Artists & Bands",
+    "title": "Twisted Machine",
+    "type": "Band",
+    "description": "Hard rock/metal musical act.",
+    "image": "twisted-time-machine-band.jpg",
+    "@image": "assets/twist-content/Artists & Bands/twisted-time-machine-band.jpg",
+    "link": "https://www.spirit-of-metal.com/en/band/Twisted_Machine"
+  },
+  {
+    "path-extension": "assets/twist-content/Artists & Bands/",
+    "category": "Artists & Bands",
+    "title": "Twisted Reaction",
+    "type": "Band",
+    "description": "Electronic body music and industrial music project.",
+    "image": "twisted-reaction-band.jpg",
+    "@image": "assets/twist-content/Artists & Bands/twisted-reaction-band.jpg",
+    "link": "https://beatspace-geomagnetic.bandcamp.com/album/twisted-reaction-action"
+  },
+  {
+    "path-extension": "assets/twist-content/Artists & Bands/",
+    "category": "Artists & Bands",
+    "title": "Twisted Autocracy",
+    "type": "Band",
+    "description": "Technical death metal band from the United States.",
+    "image": "twisted-autocracy-band.jpg",
+    "@image": "assets/twist-content/Artists & Bands/twisted-autocracy-band.jpg",
+    "link": "https://irishmetalarchive.com/artists/twisted-autocracy/"
+  },
+  {
+    "path-extension": "assets/twist-content/Artists & Bands/",
+    "category": "Artists & Bands",
+    "title": "Twisted Rod",
+    "type": "Artist",
+    "description": "Stage name used by independent recording performer.",
+    "image": "twisted-rod.jpg",
+    "@image": "assets/twist-content/Artists & Bands/twisted-rod.jpg",
+    "link": "https://www.facebook.com/Twisted.Rod.Band/videos/"
+  },
+  {
+    "path-extension": "assets/twist-content/Artists & Bands/",
+    "category": "Artists & Bands",
+    "title": "Twisted Melodies",
+    "type": "Project",
+    "description": "Music project title used for live and recorded performances.",
+    "image": "twisted-melodies-project.jpg",
+    "@image": "assets/twist-content/Artists & Bands/twisted-melodies-project.jpg",
+    "link": "https://thirdcoastreview.com/stages/2025/07/18/review-twisted-melodies-northlight"
+  },
+  {
+    "path-extension": "assets/twist-content/Artists & Bands/",
+    "category": "Artists & Bands",
+    "title": "Nubian Twist",
+    "type": "Band",
+    "description": "London-based musical collective celebrated for their highly energetic, genre-bending sound.",
+    "image": "nubiyan-twist.jpg",
+    "@image": "assets/twist-content/Artists & Bands/nubiyan-twist.jpg",
+    "link": "https://www.nubiyantwist.co.uk/about"
+  },
+  {
+    "path-extension": "assets/twist-content/Songs/",
+    "category": "Songs",
+    "title": "The Twist",
+    "type": "Chubby Checker",
+    "description": "1960 dance hit that sparked the worldwide Twist dance craze.",
+    "image": "twist-with-chubby-checker-song.jpg",
+    "@image": "assets/twist-content/Songs/twist-with-chubby-checker-song.jpg",
+    "link": "https://en.wikipedia.org/wiki/Twist_with_Chubby_Checker"
+  },
+  {
+    "path-extension": "assets/twist-content/Songs/",
+    "category": "Songs",
+    "title": "Let's Twist Again",
+    "type": "Chubby Checker",
+    "description": "1961 follow-up celebrating the Twist dance craze.",
+    "image": "lets-twist-again-chubby-checker.jpg",
+    "@image": "assets/twist-content/Songs/lets-twist-again-chubby-checker.jpg",
+    "link": "https://en.wikipedia.org/wiki/Let%27s_Twist_Again"
+  },
+  {
+    "path-extension": "assets/twist-content/Songs/",
+    "category": "Songs",
+    "title": "Twist and Shout",
+    "type": "The Isley Brothers",
+    "description": "Classic rock and roll standard popularized internationally by The Beatles.",
+    "image": "twist-and-shout-isley.jpg",
+    "@image": "assets/twist-content/Songs/twist-and-shout-isley.jpg",
+    "link": "https://www.amazon.de/Twist-Shout-Isley-Brothers/dp/B00WL59DJQ"
+  },
+  {
+    "path-extension": "assets/twist-content/Songs/",
+    "category": "Songs",
+    "title": "Twist and Shout",
+    "type": "The Beatles",
+    "description": "Classic rock and roll standard popularized internationally by The Beatles.",
+    "image": "twist-and-shout-beatles.jpg",
+    "@image": "assets/twist-content/Songs/twist-and-shout-beatles.jpg",
+    "link": "https://en.wikipedia.org/wiki/Twist_and_Shout_%28EP%29"
+  },
+  {
+    "path-extension": "assets/twist-content/Songs/",
+    "category": "Songs",
+    "title": "Twistin' the Night Away",
+    "type": "Sam Cooke",
+    "description": "Soul classic and enduring dance favorite released in 1962.",
+    "image": "twistin-the-night-away-sam.jpg",
+    "@image": "assets/twist-content/Songs/twistin-the-night-away-sam.jpg",
+    "link": "https://en.wikipedia.org/wiki/Twistin%27_the_Night_Away"
+  },
+  {
+    "path-extension": "assets/twist-content/Songs/",
+    "category": "Songs",
+    "title": "Peppermint Twist",
+    "type": "Joey Dee & the Starliters",
+    "description": "Dance hit inspired by the Peppermint Lounge nightclub.",
+    "image": "peppermint-twist-joey.jpg",
+    "@image": "assets/twist-content/Songs/peppermint-twist-joey.jpg",
+    "link": "https://www.amazon.de/Peppermint-Twisters-1960-Joey-Starliters/dp/B00NGVNJD0"
+  },
+  {
+    "path-extension": "assets/twist-content/Songs/",
+    "category": "Songs",
+    "title": "Slow Twistin'",
+    "type": "Chubby Checker & Dee Dee Sharp",
+    "description": "Popular twist-era duet single.",
+    "image": "slow-twistin-chubby-and-dee.jpg",
+    "@image": "assets/twist-content/Songs/slow-twistin-chubby-and-dee.jpg",
+    "link": "https://genius.com/Chubby-checker-slow-twistin-feat-dee-dee-sharp-lyrics"
+  },
+  {
+    "path-extension": "assets/twist-content/Songs/",
+    "category": "Songs",
+    "title": "Twisting by the Pool",
+    "type": "Dire Straits",
+    "description": "1983 EP single with a lighthearted dance theme.",
+    "image": "twisting-by-the-pool-dire.jpg",
+    "@image": "assets/twist-content/Songs/twisting-by-the-pool-dire.jpg",
+    "link": "https://en.wikipedia.org/wiki/Twisting_by_the_Pool"
+  },
+  {
+    "path-extension": "assets/twist-content/Songs/",
+    "category": "Songs",
+    "title": "Twisted Transistor",
+    "type": "Korn",
+    "description": "Lead single from the album See You on the Other Side.",
+    "image": "twisted-transistor-korn.jpg",
+    "@image": "assets/twist-content/Songs/twisted-transistor-korn.jpg",
+    "link": "https://en.wikipedia.org/wiki/Twisted_Transistor"
+  },
+  {
+    "path-extension": "assets/twist-content/Songs/",
+    "category": "Songs",
+    "title": "Twist in My Sobriety",
+    "type": "Tanita Tikaram",
+    "description": "International hit from the album Ancient Heart.",
+    "image": "twist-in-my-tanita.jpg",
+    "@image": "assets/twist-content/Songs/twist-in-my-tanita.jpg",
+    "link": "https://www.amazon.de/Tanita-Tikaram-Twist-Sobriety-Friends/dp/B00CS3D75M"
+  },
+  {
+    "path-extension": "assets/twist-content/Songs/",
+    "category": "Songs",
+    "title": "Twist of Cain",
+    "type": "Danzig",
+    "description": "Signature track from Danzig's debut album.",
+    "image": "twist-of-cain-danzig.jpg",
+    "@image": "assets/twist-content/Songs/twist-of-cain-danzig.jpg",
+    "link": "https://www.youtube.com/watch?v=HTOCBV3W9dk"
+  },
+  {
+    "path-extension": "assets/twist-content/Songs/",
+    "category": "Songs",
+    "title": "Twisted Tongue",
+    "type": "Matt Maeson",
+    "description": "a song by American indie-pop/folk artist Matt Maeson. Released in 2022 as part of his album Never Had to Leave",
+    "image": "twisted-tongue-matt-maeson.jpg",
+    "@image": "assets/twist-content/Songs/twisted-tongue-matt-maeson.jpg",
+    "link": "https://www.youtube.com/watch?v=XzA8J7hY8cw"
+  },
+  {
+    "path-extension": "assets/twist-content/Songs/",
+    "category": "Songs",
+    "title": "Twister",
+    "type": "Mariah Carey",
+    "description": "Album track from Charmbracelet.",
+    "image": "twister-mariah-carey.jpg",
+    "@image": "assets/twist-content/Songs/twister-mariah-carey.jpg",
+    "link": "https://www.youtube.com/watch?v=uVC_19_uO-k"
+  },
+  {
+    "path-extension": "assets/twist-content/Songs/",
+    "category": "Songs",
+    "title": "Twist",
+    "type": "Korn",
+    "description": "Track from the album Life Is Peachy.",
+    "image": "twist-korn.jpg",
+    "@image": "assets/twist-content/Songs/twist-korn.jpg",
+    "link": "https://open.spotify.com/track/07xFWwKPOApMS56ildsV0G"
+  },
+  {
+    "path-extension": "assets/twist-content/Songs/",
+    "category": "Songs",
+    "title": "Twisted",
+    "type": "Annie Ross",
+    "description": "Influential jazz vocalese standard based on a Wardell Gray solo.",
+    "image": "twisted-annie-ross-gerry-mulligan.jpg",
+    "@image": "assets/twist-content/Songs/twisted-annie-ross-gerry-mulligan.jpg",
+    "link": "https://www.amazon.de/Twisted-Annie-Ross/dp/B001673VAC"
+  },
+  {
+    "path-extension": "assets/twist-content/Plot Twists/",
+    "category": "Famous Movie Plot Twists",
+    "title": "The Sixth Sense",
+    "type": "Malcolm's Fate",
+    "description": "Malcolm Crowe is revealed to have been dead the entire time.",
+    "image": "sixth-sense-plot-twist.png",
+    "@image": "assets/twist-content/Plot Twists/sixth-sense-plot-twist.png",
+    "link": "https://www.reddit.com/r/Cinema/comments/1tfq7e3/the_sixth_sense_is_this_the_greatest_plot_twist/"
+  },
+  {
+    "path-extension": "assets/twist-content/Plot Twists/",
+    "category": "Famous Movie Plot Twists",
+    "title": "Fight Club",
+    "type": "Tyler Durden Reveal",
+    "description": "Tyler Durden is the Narrator's alternate personality.",
+    "image": "plot-twist-fight-club.jpg",
+    "@image": "assets/twist-content/Plot Twists/plot-twist-fight-club.jpg",
+    "link": "https://www.reddit.com/r/shittymoviedetails/comments/camgnp/towards_the_end_of_fight_club_1999_we_learn_that/"
+  },
+  {
+    "path-extension": "assets/twist-content/Plot Twists/",
+    "category": "Famous Movie Plot Twists",
+    "title": "Star Wars: Episode V � The Empire Strikes Back",
+    "type": "Darth Vader Reveal",
+    "description": "Darth Vader reveals he is Luke Skywalker's father.",
+    "image": "plot-twist-star-wars.jpg",
+    "@image": "assets/twist-content/Plot Twists/plot-twist-star-wars.jpg",
+    "link": "https://tenor.com/search/im-your-father-gifs"
+  },
+  {
+    "path-extension": "assets/twist-content/Plot Twists/",
+    "category": "Famous Movie Plot Twists",
+    "title": "The Usual Suspects",
+    "type": "Keyser S�ze",
+    "description": "Verbal Kint is revealed to be Keyser S�ze.",
+    "image": "plot-twist-suspect.png",
+    "@image": "assets/twist-content/Plot Twists/plot-twist-suspect.png",
+    "link": "https://tenor.com/view/balthazar-suspect-de-convenance-keven-spacy-keiser-gif-2182045108498544661"
+  },
+  {
+    "path-extension": "assets/twist-content/Plot Twists/",
+    "category": "Famous Movie Plot Twists",
+    "title": "Planet of the Apes (1968)",
+    "type": "Earth Reveal",
+    "description": "The planet is revealed to be a future Earth.",
+    "image": "plot-twist-planet-of-the-apes.jpg",
+    "@image": "assets/twist-content/Plot Twists/plot-twist-planet-of-the-apes.jpg",
+    "link": "https://www.reddit.com/media?url=https%3A%2F%2Fi.redd.it%2F2ng036h9uvmc1.jpeg"
+  },
+  {
+    "path-extension": "assets/twist-content/Plot Twists/",
+    "category": "Famous Movie Plot Twists",
+    "title": "Psycho",
+    "type": "Mother Reveal",
+    "description": "Norman Bates has been impersonating his dead mother.",
+    "image": "plot-twist-psycho.jpg",
+    "@image": "assets/twist-content/Plot Twists/plot-twist-psycho.jpg",
+    "link": "https://psycho.fandom.com/wiki/Norma_Bates"
+  },
+  {
+    "path-extension": "assets/twist-content/Plot Twists/",
+    "category": "Famous Movie Plot Twists",
+    "title": "The Prestige",
+    "type": "The Twin & The Machine",
+    "description": "Borden has a twin while Angier uses cloning.",
+    "image": "plot-twist-the-prestige-twins.jpg",
+    "@image": "assets/twist-content/Plot Twists/plot-twist-the-prestige-twins.jpg",
+    "link": "https://screenrant.com/prestige-movie-ending-twists-explained-2/"
+  },
+  {
+    "path-extension": "assets/twist-content/Plot Twists/",
+    "category": "Famous Movie Plot Twists",
+    "title": "Saw",
+    "type": "Jigsaw's Corpse",
+    "description": "The corpse is alive the entire time.",
+    "image": "plot-twist-saw.jpg",
+    "@image": "assets/twist-content/Plot Twists/plot-twist-saw.jpg",
+    "link": "https://screenrant.com/ssaw-twist-ending-clues-foreshadowing/"
+  },
+  {
+    "path-extension": "assets/twist-content/Plot Twists/",
+    "category": "Famous Movie Plot Twists",
+    "title": "Shutter Island",
+    "type": "Teddy's Identity",
+    "description": "Teddy Daniels is actually patient Andrew Laeddis.",
+    "image": "plot-twist-shutter-island.jpg",
+    "@image": "assets/twist-content/Plot Twists/plot-twist-shutter-island.jpg",
+    "link": "https://wistfulwriter.com/2010/08/the-shutter-island-mystery-a-visual-analysis/"
+  },
+  {
+    "path-extension": "assets/twist-content/Plot Twists/",
+    "category": "Famous Movie Plot Twists",
+    "title": "The Others",
+    "type": "The Family Are Ghosts",
+    "description": "The family discovers they themselves are dead.",
+    "image": "plot-twist-the-others.jpg",
+    "@image": "assets/twist-content/Plot Twists/plot-twist-the-others.jpg",
+    "link": "https://www.reddit.com/r/moviecritic/comments/1hq023w/most_mindblowing_plot_twist_in_a_film_mine_is/"
+  },
+  {
+    "path-extension": "assets/twist-content/Plot Twists/",
+    "category": "Famous Movie Plot Twists",
+    "title": "Arrival",
+    "type": "Future Memories",
+    "description": "Louise's visions are memories of the future.",
+    "image": "plot-twist-arrival.jpg",
+    "@image": "assets/twist-content/Plot Twists/plot-twist-arrival.jpg",
+    "link": "https://www.tiktok.com/@vanityfair/video/7445050440535772447"
+  },
+  {
+    "path-extension": "assets/twist-content/Plot Twists/",
+    "category": "Famous Movie Plot Twists",
+    "title": "Oldboy",
+    "type": "Family Revelation",
+    "description": "The protagonist unknowingly falls in love with his daughter.",
+    "image": "plot-twist-oldboy.png",
+    "@image": "assets/twist-content/Plot Twists/plot-twist-oldboy.png",
+    "link": "https://www.google.com/search?sa=X&sca_esv=ec2bff8bd1e2ef21&rlz=1C5OZZY_enGB1163GB1163&sxsrf=ANbL-n6sRF6NKfu1GY8EX6lEeVuS-guiJQ:1781627356440&udm=7&fbs=ADc_l-aN0CWEZBOHjofHoaMMDiKpmAsnXCN5UBx17opt8eaTX-kA7ovRmAIYWC70eULDzbpKhLTwdBViyqaMPX_061dAYXlr3rIeAfk94tw-2qzqwtdwKyE86s5YX_Fy4grXSll0hEWalgKQbbxGOlzlO_MGQFxKcS7KnJtjExCNIC72yGxT-5S0cKnGZPrL4EuA4DDTzms5&q=Oldboy+Family+Revelation+moment&ved=2ahUKEwj8lc-Nl4yVAxV5S_EDHVDOJHYQtKgLegQIFBAB&biw=1424&bih=654&dpr=2#fpstate=ive&vld=cid:e1f3c4df,vid:40hx3zFdoLs,st:0"
+  },
+  {
+    "path-extension": "assets/twist-content/Plot Twists/",
+    "category": "Famous Movie Plot Twists",
+    "title": "Se7en",
+    "type": "What's in the Box?",
+    "description": "John Doe manipulates Mills into completing the final sin.",
+    "image": "plot-twist-seven.png",
+    "@image": "assets/twist-content/Plot Twists/plot-twist-seven.png",
+    "link": "https://r1.community.samsung.com/t5/untold-stories-at-night/quot-what-s-in-the-box-quot-david-mills-se7en/cns-p/17137272"
+  },
+  {
+    "path-extension": "assets/twist-content/Plot Twists/",
+    "category": "Famous Movie Plot Twists",
+    "title": "Primal Fear",
+    "type": "Aaron's Deception",
+    "description": "Aaron fakes his split personality disorder.",
+    "image": "plot-twist-primal-fear.jpg",
+    "@image": "assets/twist-content/Plot Twists/plot-twist-primal-fear.jpg",
+    "link": "https://www.cbc.ca/arts/looking-back-at-primal-fear-and-the-dangers-of-using-mental-illness-for-villainous-plot-twists-1.5987844"
+  },
+  {
+    "path-extension": "assets/twist-content/Plot Twists/",
+    "category": "Famous Movie Plot Twists",
+    "title": "Memento",
+    "type": "Leonard's Self-Deception",
+    "description": "Leonard deliberately creates his own purpose.",
+    "image": "plot-twist-momento.png",
+    "@image": "assets/twist-content/Plot Twists/plot-twist-momento.png",
+    "link": "https://www.instagram.com/reel/DZnJO9jBKuD/"
+  },
+  {
+    "path-extension": "assets/twist-content/Plot Twists/",
+    "category": "Famous Movie Plot Twists",
+    "title": "The Crying Game",
+    "type": "Dil's Secret",
+    "description": "Dil's identity surprises the audience.",
+    "image": "plot-twist-the-crying-game.jpg",
+    "@image": "assets/twist-content/Plot Twists/plot-twist-the-crying-game.jpg",
+    "link": "https://www.youtube.com/watch?v=fToMiIveRss"
+  },
+  {
+    "path-extension": "assets/twist-content/Plot Twists/",
+    "category": "Famous Movie Plot Twists",
+    "title": "Gone Girl",
+    "type": "Amy's Disappearance",
+    "description": "Amy stages her own disappearance.",
+    "image": "plot-twist-gone-girl.jpg",
+    "@image": "assets/twist-content/Plot Twists/plot-twist-gone-girl.jpg",
+    "link": "https://screenrant.com/gone-girl-chronological-story-events-timeline/"
+  },
+  {
+    "path-extension": "assets/twist-content/Plot Twists/",
+    "category": "Famous Movie Plot Twists",
+    "title": "The Village",
+    "type": "Modern Day Reveal",
+    "description": "The village exists in the present day.",
+    "image": "plot-twist-the-village.jpg",
+    "@image": "assets/twist-content/Plot Twists/plot-twist-the-village.jpg",
+    "link": "https://screenrant.com/the-village-ending-explained/"
+  },
+  {
+    "path-extension": "assets/twist-content/Plot Twists/",
+    "category": "Famous Movie Plot Twists",
+    "title": "Identity",
+    "type": "Multiple Personalities",
+    "description": "The motel guests exist within one man's mind.",
+    "image": "plot-twist-idenity.jpg",
+    "@image": "assets/twist-content/Plot Twists/plot-twist-idenity.jpg",
+    "link": "https://www.facebook.com/groups/424592783394524/posts/700726575781142/"
+  },
+  {
+    "path-extension": "assets/twist-content/Plot Twists/",
+    "category": "Famous Movie Plot Twists",
+    "title": "The Mist",
+    "type": "Final Decision",
+    "description": "Rescue arrives moments after the protagonist's choice.",
+    "image": "plot-twist-the-mist.jpg",
+    "@image": "assets/twist-content/Plot Twists/plot-twist-the-mist.jpg",
+    "link": "https://www.joe.co.uk/entertainment/people-think-horror-the-mist-has-most-messed-up-ending-which-left-them-feeling-sick-408325"
+  },
+  {
+    "path-extension": "assets/twist-content/Plot Twists/",
+    "category": "Famous Movie Plot Twists",
+    "title": "Orphan",
+    "type": "Esther's Identity",
+    "description": "Esther is an adult woman posing as a child.",
+    "image": "plot-twist-orphan.png",
+    "@image": "assets/twist-content/Plot Twists/plot-twist-orphan.png",
+    "link": "https://www.tiktok.com/@briancamcab/video/7242803034613501210"
+  },
+  {
+    "path-extension": "assets/twist-content/Plot Twists/",
+    "category": "Famous Movie Plot Twists",
+    "title": "The Game",
+    "type": "The Conspiracy",
+    "description": "The ordeal is revealed to be an elaborate game.",
+    "image": "plot-twist-the-game.png",
+    "@image": "assets/twist-content/Plot Twists/plot-twist-the-game.png",
+    "link": "https://www.youtube.com/watch?v=I0Xk929tvI0"
+  },
+  {
+    "path-extension": "assets/twist-content/Plot Twists/",
+    "category": "Famous Movie Plot Twists",
+    "title": "Atonement",
+    "type": "Fictional Reunion",
+    "description": "The happy ending exists only in Briony's writing.",
+    "image": "plot-twist-atonement.png",
+    "@image": "assets/twist-content/Plot Twists/plot-twist-atonement.png",
+    "link": "https://www.instagram.com/reel/DY_XjXBz8Dn/"
+  },
+  {
+    "path-extension": "assets/twist-content/Plot Twists/",
+    "category": "Famous Movie Plot Twists",
+    "title": "Incendies",
+    "type": "Father and Brother",
+    "description": "The twins discover their father and brother are the same man.",
+    "image": "plot-twist-incendies.jpg",
+    "@image": "assets/twist-content/Plot Twists/plot-twist-incendies.jpg",
+    "link": "https://thedirect.com/article/incendies-movie-pool-scene-explained-meaning-twist"
+  },
+  {
+    "path-extension": "assets/twist-content/Plot Twists/",
+    "category": "Famous Movie Plot Twists",
+    "title": "The Wicker Man",
+    "type": "Human Sacrifice",
+    "description": "Sergeant Howie is the intended sacrifice.",
+    "image": "plot-twist-the-wicker-man.jpg",
+    "@image": "assets/twist-content/Plot Twists/plot-twist-the-wicker-man.jpg",
+    "link": "https://filmmusiccentral.com/2020/06/24/my-thoughts-on-the-wicker-man-1973/"
+  },
+  {
+    "path-extension": "assets/twist-content/Plot Twists/",
+    "category": "Famous Movie Plot Twists",
+    "title": "No Way Out",
+    "type": "Soviet Mole",
+    "description": "Tom Farrell is revealed as the Soviet spy.",
+    "image": "plot-twist-no-way-of.png",
+    "@image": "assets/twist-content/Plot Twists/plot-twist-no-way-of.png",
+    "link": "https://www.youtube.com/watch?v=cEPa4RFLJ-0"
+  },
+  {
+    "path-extension": "assets/twist-content/Plot Twists/",
+    "category": "Famous Movie Plot Twists",
+    "title": "Secret Window",
+    "type": "Mort's Reality",
+    "description": "Mort Rainey is revealed to be the killer.",
+    "image": "plot-twist-secret-window.jpg",
+    "@image": "assets/twist-content/Plot Twists/plot-twist-secret-window.jpg",
+    "link": "https://screenrant.com/stephen-king-secret-window-quotes/"
+  },
+  {
+    "path-extension": "assets/twist-content/Plot Twists/",
+    "category": "Famous Movie Plot Twists",
+    "title": "Sleepaway Camp",
+    "type": "Angela Reveal",
+    "description": "The film ends with a famous horror reveal.",
+    "image": "plot-twist-camp-angela.jpg",
+    "@image": "assets/twist-content/Plot Twists/plot-twist-camp-angela.jpg",
+    "link": "https://harmonycolangelo.medium.com/the-transgender-defense-of-angela-baker-and-sleepaway-camp-82dd54ddf9cd"
+  },
+  {
+    "path-extension": "assets/twist-content/Plot Twists/",
+    "category": "Famous Movie Plot Twists",
+    "title": "The Cabinet of Dr. Caligari",
+    "type": "The Asylum Twist",
+    "description": "The narrator is revealed to be an asylum patient.",
+    "image": "plot-twist-cabinet-of-dr-cali.jpg",
+    "@image": "assets/twist-content/Plot Twists/plot-twist-cabinet-of-dr-cali.jpg",
+    "link": "https://collider.com/first-movie-twist-ending/"
+  },
+  {
+    "path-extension": "assets/twist-content/Television & Movies/",
+    "category": "Television & Movies",
+    "title": "Twisted",
+    "type": "Television Programme",
+    "description": "ABC mystery-drama television series that aired in 2013�2014.",
+    "image": "twisted-tv.jpg",
+    "@image": "assets/twist-content/Television & Movies/twisted-tv.jpg",
+    "link": "https://en.wikipedia.org/wiki/Twisted_%28TV_series%29"
+  },
+  {
+    "path-extension": "assets/twist-content/Television & Movies/",
+    "category": "Television & Movies",
+    "title": "Twisted Tales",
+    "type": "Television Programme",
+    "description": "A BBC Three comedy-horror anthology series that featured self-contained episodes with bizarre twists",
+    "image": "twisted-tales.jpg",
+    "@image": "assets/twist-content/Television & Movies/twisted-tales.jpg",
+    "link": "https://www.imdb.com/title/tt0442648/"
+  },
+  {
+    "path-extension": "assets/twist-content/Television & Movies/",
+    "category": "Television & Movies",
+    "title": "Twisted Twins",
+    "type": "Television Programme",
+    "description": "Documentary special on identical twins.",
+    "image": "twisted-twins.jpg",
+    "@image": "assets/twist-content/Television & Movies/twisted-twins.jpg",
+    "link": "https://www.imdb.com/title/tt33397522/"
+  },
+  {
+    "path-extension": "assets/twist-content/Television & Movies/",
+    "category": "Television & Movies",
+    "title": "Twisted Faith",
+    "type": "Television Programme",
+    "description": "Television documentary about cults and belief.",
+    "image": "twist-of-faith.png",
+    "@image": "assets/twist-content/Television & Movies/twist-of-faith.png",
+    "link": "https://en.wikipedia.org/wiki/Twist_of_Faith_%282013_film%29"
+  },
+  {
+    "path-extension": "assets/twist-content/Television & Movies/",
+    "category": "Television & Movies",
+    "title": "Twisted Tales of Felix the Cat",
+    "type": "Television Programme",
+    "description": "Animated special title.",
+    "image": "twisted-tales-of-felix.jpg",
+    "@image": "assets/twist-content/Television & Movies/twisted-tales-of-felix.jpg",
+    "link": "https://www.mercari.com/us/item/m77921976238/"
+  },
+  {
+    "path-extension": "assets/twist-content/Television & Movies/",
+    "category": "Television & Movies",
+    "title": "Twister: Caught in the Storm",
+    "type": "Television Programme",
+    "description": "Storm documentary television special.",
+    "image": "the-twister.jpg",
+    "@image": "assets/twist-content/Television & Movies/the-twister.jpg",
+    "link": "https://en.wikipedia.org/wiki/The_Twister:_Caught_in_the_Storm"
+  },
+  {
+    "path-extension": "assets/twist-content/Television & Movies/",
+    "category": "Television & Movies",
+    "title": "Twisted Strings",
+    "type": "Television Programme",
+    "description": "A 2022 Taiwanese thriller-comedy anthology series",
+    "image": "twisted-string.jpg",
+    "@image": "assets/twist-content/Television & Movies/twisted-string.jpg",
+    "link": "https://www.imdb.com/title/tt15327666/"
+  },
+  {
+    "path-extension": "assets/twist-content/Television & Movies/",
+    "category": "Television & Movies",
+    "title": "Twisted Little Lies",
+    "type": "Movie",
+    "description": "2021 thriller film.",
+    "image": "twisted-little-lies.jpg",
+    "@image": "assets/twist-content/Television & Movies/twisted-little-lies.jpg",
+    "link": "https://www.imdb.com/title/tt15033132/"
+  },
+  {
+    "path-extension": "assets/twist-content/Television & Movies/",
+    "category": "Television & Movies",
+    "title": "Twisted Twin",
+    "type": "Movie",
+    "description": "2020 thriller film involving separated siblings.",
+    "image": "twisted-twin.jpg",
+    "@image": "assets/twist-content/Television & Movies/twisted-twin.jpg",
+    "link": "https://www.primevideo.com/detail/0NBMUUP1WVZ2BSCDYSMMUTGXIZ"
+  },
+  {
+    "path-extension": "assets/twist-content/Television & Movies/",
+    "category": "Television & Movies",
+    "title": "Twisted Sister",
+    "type": "Movie",
+    "description": "2014 documentary about the heavy metal band.",
+    "image": "",
+    "@image": "assets/twist-content/Television & Movies/",
+    "link": "https://en.wikipedia.org/wiki/We_Are_Twisted_Fucking_Sister!"
+  },
+  {
+    "path-extension": "assets/twist-content/Television & Movies/",
+    "category": "Television & Movies",
+    "title": "Twisted Pair",
+    "type": "Movie",
+    "description": "2018 science-fiction film directed by Neil Breen.",
+    "image": "twisted-pair.jpg",
+    "@image": "assets/twist-content/Television & Movies/twisted-pair.jpg",
+    "link": "https://letterboxd.com/film/twisted-pair/"
+  },
+  {
+    "path-extension": "assets/twist-content/Television & Movies/",
+    "category": "Television & Movies",
+    "title": "Twisted Girls",
+    "type": "Movie",
+    "description": "is an Italian psychological drama and thriller directed by Silvio Amadio.",
+    "image": "twisted-girls-1969.jpg",
+    "@image": "assets/twist-content/Television & Movies/twisted-girls-1969.jpg",
+    "link": "https://markdavidwelsh.wordpress.com/2020/12/24/no-mans-island-twisted-girls-island-of-the-swedish-girls-lisola-delle-svedesi-1969/"
+  },
+  {
+    "path-extension": "assets/twist-content/Television & Movies/",
+    "category": "Television & Movies",
+    "title": "Twisted Seduction",
+    "type": "Movie",
+    "description": "Crime thriller television film.",
+    "image": "twisted-seduction.jpg",
+    "@image": "assets/twist-content/Television & Movies/twisted-seduction.jpg",
+    "link": "https://www.imdb.com/title/tt1593807/"
+  },
+  {
+    "path-extension": "assets/twist-content/Television & Movies/",
+    "category": "Television & Movies",
+    "title": "Twisted Date",
+    "type": "Movie",
+    "description": "Thriller television movie.",
+    "image": "twisted-date.jpg",
+    "@image": "assets/twist-content/Television & Movies/twisted-date.jpg",
+    "link": "https://www.imdb.com/title/tt25177746/"
+  },
+  {
+    "path-extension": "assets/twist-content/Television & Movies/",
+    "category": "Television & Movies",
+    "title": "Twister",
+    "type": "Movie",
+    "description": "1996 disaster film about storm chasers pursuing tornadoes across Oklahoma.",
+    "image": "twister-movie.jpg",
+    "@image": "assets/twist-content/Television & Movies/twister-movie.jpg",
+    "link": "https://en.wikipedia.org/wiki/Twister_%281996_film%29"
+  },
+  {
+    "path-extension": "assets/twist-content/Television & Movies/",
+    "category": "Television & Movies",
+    "title": "Twisters",
+    "type": "Movie",
+    "description": "2024 standalone sequel inspired by the original Twister film.",
+    "image": "twister2.jpg",
+    "@image": "assets/twist-content/Television & Movies/twister2.jpg",
+    "link": "https://en.wikipedia.org/wiki/Twisters_%28film%29"
+  },
+  {
+    "path-extension": "assets/twist-content/Television & Movies/",
+    "category": "Television & Movies",
+    "title": "Twisted",
+    "type": "Movie",
+    "description": "2004 psychological thriller starring Ashley Judd and Samuel L. Jackson.",
+    "image": "twisted-2004.jpg",
+    "@image": "assets/twist-content/Television & Movies/twisted-2004.jpg",
+    "link": "https://www.imdb.com/title/tt0315297/"
+  },
+  {
+    "path-extension": "assets/twist-content/Television & Movies/",
+    "category": "Television & Movies",
+    "title": "Twisted Love",
+    "type": "Movie",
+    "description": "A American psychological thriller directed by Eb Lottimer",
+    "image": "twisted-love.jpg",
+    "@image": "assets/twist-content/Television & Movies/twisted-love.jpg",
+    "link": "https://www.imdb.com/title/tt0114751/"
+  },
+  {
+    "path-extension": "assets/twist-content/Television & Movies/",
+    "category": "Television & Movies",
+    "title": "Twisted",
+    "type": "Movie",
+    "description": "a 2026 American�horror thriller�film directed by�Darren Lynn Bousman�and written by Jonathan Bernstein and�James Greer.",
+    "image": "twisted-2004.jpg",
+    "@image": "assets/twist-content/Television & Movies/twisted-2004.jpg",
+    "link": "https://en.wikipedia.org/wiki/Twisted_%282026_film%29"
+  },
+  {
+    "path-extension": "assets/twist-content/Books/",
+    "category": "Books",
+    "title": "Twisted Love",
+    "type": "Romance",
+    "description": "Romance novel by Ana Huang and the first book in the Twisted series.",
+    "image": "twisted-love-book.jpg",
+    "@image": "assets/twist-content/Books/twisted-love-book.jpg",
+    "link": "https://www.goodreads.com/book/show/62057697-twisted-love"
+  },
+  {
+    "path-extension": "assets/twist-content/Books/",
+    "category": "Books",
+    "title": "Twisted",
+    "type": "Romance",
+    "description": "Young adult novel by Laurie Halse Anderson.",
+    "image": "twisted-book.jpg",
+    "@image": "assets/twist-content/Books/twisted-book.jpg",
+    "link": "https://www.goodreads.com/book/show/123106.Twisted"
+  },
+  {
+    "path-extension": "assets/twist-content/Books/",
+    "category": "Books",
+    "title": "Twisted",
+    "type": "Crime",
+    "description": "Collection of short stories by Jeffrey Deaver.",
+    "image": "twisted-deaver-book.jpg",
+    "@image": "assets/twist-content/Books/twisted-deaver-book.jpg",
+    "link": "https://en.wikipedia.org/wiki/Twisted_(short_story_collection)"
+  },
+  {
+    "path-extension": "assets/twist-content/Books/",
+    "category": "Books",
+    "title": "Twisted 26",
+    "type": "Mystery",
+    "description": "Novel by Janet Evanovich in the Stephanie Plum series.",
+    "image": "twisted-twentysix.jpg",
+    "@image": "assets/twist-content/Books/twisted-twentysix.jpg",
+    "link": "https://www.ebay.com/itm/385294869343"
+  },
+  {
+    "path-extension": "assets/twist-content/Books/",
+    "category": "Books",
+    "title": "Twisted Palace",
+    "type": "Romance",
+    "description": "Fantasy romance novel by Erin Watt.",
+    "image": "twisted-palace.jpeg",
+    "@image": "assets/twist-content/Books/twisted-palace.jpeg",
+    "link": "https://pangobooks.com/books/f6c349ea-a985-44cf-be43-8490a3ebe52b-fY6U99wlz8Uiz6YMOSd4psOg5FM2?srsltid=AfmBOoq33nrFQVosC6F2Iei5J9hXocgZKkqEGT9icKXhLSXuqk2fAW93"
+  },
+  {
+    "path-extension": "assets/twist-content/Books/",
+    "category": "Books",
+    "title": "Oliver Twist",
+    "type": "Character",
+    "description": "Novel Character",
+    "image": "oliver-twist.jpg",
+    "@image": "assets/twist-content/Books/oliver-twist.jpg",
+    "link": "https://www.ebay.com/itm/364898763371"
+  },
+  {
+    "path-extension": "assets/twist-content/Gaming & Toys/",
+    "category": "Gaming & Toys",
+    "title": "Twisted Metal",
+    "type": "Video Game",
+    "description": "Vehicular combat video game franchise originally released for PlayStation in 1995.",
+    "image": "twisted-metal.jpg",
+    "@image": "assets/twist-content/Gaming & Toys/twisted-metal.jpg",
+    "link": "https://en.wikipedia.org/wiki/Twisted_Metal"
+  },
+  {
+    "path-extension": "assets/twist-content/Gaming & Toys/",
+    "category": "Gaming & Toys",
+    "title": "Twisted Metal 2",
+    "type": "Video Game",
+    "description": "Second entry in the Twisted Metal series featuring expanded arenas and characters.",
+    "image": "twisted-metal2.jpg",
+    "@image": "assets/twist-content/Gaming & Toys/twisted-metal2.jpg",
+    "link": "https://en.wikipedia.org/wiki/Twisted_Metal_2"
+  },
+  {
+    "path-extension": "assets/twist-content/Gaming & Toys/",
+    "category": "Gaming & Toys",
+    "title": "Disney Twisted-Wonderland",
+    "type": "Mobile Game",
+    "description": "Mobile game inspired by Disney villains.",
+    "image": "disney-twisted-wonderland.jpg",
+    "@image": "assets/twist-content/Gaming & Toys/disney-twisted-wonderland.jpg",
+    "link": "https://en.wikipedia.org/wiki/Disney_Twisted-Wonderland"
+  },
+  {
+    "path-extension": "assets/twist-content/Gaming & Toys/",
+    "category": "Gaming & Toys",
+    "title": "Twister",
+    "type": "Physical skill game",
+    "description": "Classic physical party game by Milton Bradley/Hasbro.",
+    "image": "twister-floor-game.jpg",
+    "@image": "assets/twist-content/Gaming & Toys/twister-floor-game.jpg",
+    "link": "https://en.wikipedia.org/wiki/Twister_(game)"
+  },
+  {
+    "path-extension": "assets/twist-content/Gaming & Toys/",
+    "category": "Gaming & Toys",
+    "title": "Twisty Puzzle",
+    "type": "Puzzle Game",
+    "description": "General category of rotational mechanical puzzles such as cube puzzles.",
+    "image": "puzzle.jpg",
+    "@image": "assets/twist-content/Gaming & Toys/puzzle.jpg",
+    "link": "https://en.wikipedia.org/wiki/Combination_puzzle"
+  },
+  {
+    "path-extension": "assets/twist-content/Gaming & Toys/",
+    "category": "Gaming & Toys",
+    "title": "Twisty Noodle",
+    "type": "Fidget Toy",
+    "description": "Dexterity toy consisting of flexible linked segments.",
+    "image": "twisty-noodles.jpg",
+    "@image": "assets/twist-content/Gaming & Toys/twisty-noodles.jpg",
+    "link": "https://www.amazon.com/Sensory-Toys-for-Kids-with-Autism/dp/B0F437WQM8"
+  },
+  {
+    "path-extension": "assets/twist-content/Gaming & Toys/",
+    "category": "Gaming & Toys",
+    "title": "Twisty Petz",
+    "type": "Build-a-toy",
+    "description": "Collectible toys that transform from bracelets into animals.",
+    "image": "",
+    "@image": "assets/twist-content/Gaming & Toys/",
+    "link": "https://www.amazon.de/-/en/Twisty-Petz-Bracelet-Transforming-Bracelets/dp/B08SSZRF5Z"
+  },
+  {
+    "path-extension": "assets/twist-content/Gaming & Toys/",
+    "category": "Gaming & Toys",
+    "title": "Twisty Tracks",
+    "type": "Build-a-toy",
+    "description": "Flexible track toy system for battery-powered vehicles.",
+    "image": "twister-tracks.jpg",
+    "@image": "assets/twist-content/Gaming & Toys/twister-tracks.jpg",
+    "link": "https://www.amazon.com/Mindscope-Twister-Tracks-Flexible-Accessories/dp/B0049OXI3Y"
+  },
+  {
+    "path-extension": "assets/twist-content/Gaming & Toys/",
+    "category": "Gaming & Toys",
+    "title": "Twisted Edge Snowboarding",
+    "type": "Video Game",
+    "description": "Snowboarding video game for the Nintendo 64.",
+    "image": "twisted-edge.png",
+    "@image": "assets/twist-content/Gaming & Toys/twisted-edge.png",
+    "link": "https://en.wikipedia.org/wiki/Twisted_Edge_Extreme_Snowboarding"
+  },
+  {
+    "path-extension": "assets/twist-content/Gaming & Toys/",
+    "category": "Gaming & Toys",
+    "title": "Twisted Lands: Shadow Town",
+    "type": "Video Game",
+    "description": "Hidden-object adventure game.",
+    "image": "twsited-lands-game.jpg",
+    "@image": "assets/twist-content/Gaming & Toys/twsited-lands-game.jpg",
+    "link": "https://www.amazon.com/Twisted-Lands-Shadow-Town-Download/dp/B06XNNXBMR"
+  },
+  {
+    "path-extension": "assets/twist-content/Gaming & Toys/",
+    "category": "Gaming & Toys",
+    "title": "Twisted Pixel Games",
+    "type": "Video Game",
+    "description": "Independent game development studio known for stylized action games.",
+    "image": "twisted-pixel.png",
+    "@image": "assets/twist-content/Gaming & Toys/twisted-pixel.png",
+    "link": "https://en.wikipedia.org/wiki/Twisted_Pixel_Games"
+  },
+  {
+    "path-extension": "assets/twist-content/Gaming & Toys/",
+    "category": "Gaming & Toys",
+    "title": "Twisted Dreams",
+    "type": "Video Game",
+    "description": "Independent platform video game.",
+    "image": "twisted-dreams.jpg",
+    "@image": "assets/twist-content/Gaming & Toys/twisted-dreams.jpg",
+    "link": "https://en.wikipedia.org/wiki/Giana_Sisters:_Twisted_Dreams"
+  },
+  {
+    "path-extension": "assets/twist-content/Gaming & Toys/",
+    "category": "Gaming & Toys",
+    "title": "Twisted Crypt",
+    "type": "Board Game",
+    "description": "Independent dungeon crawler title.",
+    "image": "twisted-cryptids.jpeg",
+    "@image": "assets/twist-content/Gaming & Toys/twisted-cryptids.jpeg",
+    "link": "amazon.com/Unstable-Games-Twisted-Cryptids-Base/dp/B0DRWF8FGQ"
+  },
+  {
+    "path-extension": "assets/twist-content/Gaming & Toys/",
+    "category": "Gaming & Toys",
+    "title": "twisted toys",
+    "type": "Video Game",
+    "description": "Twisted Toy is a psychological horror game where your nightly routine reveals you�re not alone.",
+    "image": "twsited-toys.jpg",
+    "@image": "assets/twist-content/Gaming & Toys/twsited-toys.jpg",
+    "link": "https://store.steampowered.com/app/3839320/Twisted_Toys/"
+  },
+  {
+    "path-extension": "assets/twist-content/Places/",
+    "category": "Places",
+    "title": "Twister",
+    "type": "Municipality",
+    "description": "Municipality in Lower Saxony, Germany.",
+    "image": "twist-germany-coat-of-arms.png",
+    "@image": "assets/twist-content/Places/twist-germany-coat-of-arms.png",
+    "link": "https://en.wikipedia.org/wiki/Twist,_Germany"
+  },
+  {
+    "path-extension": "assets/twist-content/Places/",
+    "category": "Places",
+    "title": "Twisted Colossus",
+    "type": "Roller Coaster",
+    "description": "Hybrid roller coaster at Six Flags Magic Mountain.",
+    "image": "twisted-colossus.jpg",
+    "@image": "assets/twist-content/Places/twisted-colossus.jpg",
+    "link": "https://www.google.com/search?q=Twisted+Colossus+Roller+Coaster+USA+Hybrid+roller+coaster+at+Six+Flags+Magic+Mountain.&rlz=1C5OZZY_enGB1163GB1163&oq=Twisted+Colossus%09Roller+Coaster%09USA%09Hybrid+roller+coaster+at+Six+Flags+Magic+Mountain.&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzczNWowajeoAgCwAgA&sourceid=chrome&ie=UTF-8#lpg=cid:CgIgAQ%3D%3D,ik:CAoSFkNJSE0wb2dLRUlDQWdJQ3NsWkNHYUE%3D"
+  },
+  {
+    "path-extension": "assets/twist-content/Places/",
+    "category": "Places",
+    "title": "Twisted Timbers",
+    "type": "Roller Coaster",
+    "description": "Hybrid roller coaster at Kings Dominion.",
+    "image": "twisted-timbers-ride2.jpg",
+    "@image": "assets/twist-content/Places/twisted-timbers-ride2.jpg",
+    "link": "https://de.wikipedia.org/wiki/Twisted_Timbers"
+  },
+  {
+    "path-extension": "assets/twist-content/Places/",
+    "category": "Places",
+    "title": "Twisted Cyclone",
+    "type": "Roller Coaster",
+    "description": "Hybrid roller coaster at Six Flags Over Georgia.",
+    "image": "twisted-cyclone.jpg",
+    "@image": "assets/twist-content/Places/twisted-cyclone.jpg",
+    "link": "https://en.wikipedia.org/wiki/Twisted_Cyclone"
+  },
+  {
+    "path-extension": "assets/twist-content/Places/",
+    "category": "Places",
+    "title": "Twisted Oak Winery",
+    "type": "Winery",
+    "description": "Award-winning winery in Vallecito, California.",
+    "image": "twisted-oak-winery.jpg",
+    "@image": "assets/twist-content/Places/twisted-oak-winery.jpg",
+    "link": "https://www.google.com/search?sca_esv=8af115e11c874c1b&rlz=1C5OZZY_enGB1163GB1163&sxsrf=ANbL-n50NEzwcAJ-bEqjeuM2_okqnEF-bA:1781444861852&q=Places+Twisted+Oak+Winery+Winery+USA+Award-winning+winery+in+Vallecito,+California.&source=lnms&fbs=ADc_l-aN0CWEZBOHjofHoaMMDiKpaEWjvZ2Py1XXV8d8KvlI3vxYI1tojT_24H7Q4iMwclQvV5D9BlBw55EmBElwpyk3UeM6W0BttXZ8_MvpIwZGm34uENhZmqI-WvlAkiibJQPn-QIHi1nSm-Kw8tIL_nFKOOeV7HhE2Y8gNGvpzavySIVn5PEn8cjIm1PjxCGgLT5VTlocJmf3UhfdrMOBJ7-x5stb4w&sa=X&ved=2ahUKEwi1uLWh74aVAxUwQ_EDHZeeLwYQ0pQJegQICxAB&biw=732&bih=661&dpr=2#lpg=ik:CAoSFkNJSE0wb2dLRUlDQWdJRDJxS1MzSnc%3D"
+  },
+  {
+    "path-extension": "assets/twist-content/Places/",
+    "category": "Places",
+    "title": "Twisted Root Burger Co.",
+    "type": "Restaurant Chain",
+    "description": "Texas-founded burger restaurant chain.",
+    "image": "twisted-burger.jpg",
+    "@image": "assets/twist-content/Places/twisted-burger.jpg",
+    "link": "https://www.qsrmagazine.com/uncategorized/three-twisted-root-burger-units-file-bankruptcy/"
+  },
+  {
+    "path-extension": "assets/twist-content/Places/",
+    "category": "Places",
+    "title": "Twisted Hop",
+    "type": "Craft Beer Bar",
+    "description": "Well-known craft beer bar in Christchurch.",
+    "image": "twisted-hop-pub.jpg",
+    "@image": "assets/twist-content/Places/twisted-hop-pub.jpg",
+    "link": "https://www.google.com/search?sca_esv=8af115e11c874c1b&rlz=1C5OZZY_enGB1163GB1163&sxsrf=ANbL-n4J6j-UMzyZBDXVeC2TEMm21-zTGQ:1781445574756&q=Twisted+Hop+Craft+Beer+Bar+New+Zealand+Well-known+craft+beer+bar+in+Christchurch.&source=lnms&fbs=ADc_l-aN0CWEZBOHjofHoaMMDiKpaEWjvZ2Py1XXV8d8KvlI3vxYI1tojT_24H7Q4iMwclQvV5D9BlBw55EmBElwpyk3UeM6W0BttXZ8_MvpIwZGm34uENhZmqI-WvlAkiibJQPn-QIHi1nSm-Kw8tIL_nFKOOeV7HhE2Y8gNGvpzavySIVn5PEn8cjIm1PjxCGgLT5VTlocJmf3UhfdrMOBJ7-x5stb4w&sa=X&ved=2ahUKEwjk2a318YaVAxUTVfEDHQmSBXEQ0pQJegQICxAB&biw=732&bih=661&dpr=2#lpg=ik:CAoSF0NJSE0wb2dLRUlDQWdJQ2sydjc3c3dF"
+  },
+  {
+    "path-extension": "assets/twist-content/Places/",
+    "category": "Places",
+    "title": "Twisting Scoops",
+    "type": "Ice Cream Shop",
+    "description": "Popular artisan ice cream brand and caf�.",
+    "image": "twisting-scoops.jpg",
+    "@image": "assets/twist-content/Places/twisting-scoops.jpg",
+    "link": "https://twistingscoops.com/location/dibrugarh-assam/"
+  },
+  {
+    "path-extension": "assets/twist-content/Places/",
+    "category": "Places",
+    "title": "Twisted Fork",
+    "type": "Restaurant",
+    "description": "Recognized restaurant brand used by established venues.",
+    "image": "twisted-fork.jpg",
+    "@image": "assets/twist-content/Places/twisted-fork.jpg",
+    "link": "https://www.google.com/search?sa=X&sca_esv=8af115e11c874c1b&rlz=1C5OZZY_enGB1163GB1163&sxsrf=ANbL-n6mmGpzBiO0TrRNq1y89P0NMbLhYA:1781446230848&udm=1&lsack=VrYuaou1M52Vxc8PkMWzqAQ&fbs=ADc_l-aN0CWEZBOHjofHoaMMDiKpjNDNIoNCe1TZPus8mLinZXpbvRnwz3O-6ChonIHMyJW0CbXo_vfhu6qZJbASREAgYL34ID8e_P1sOdSLw6htq-57tghg5ianoJX_VIjfWL3m0DQ9TpoLxeAC43EaDie2Xw_ZJMk8pL-2fGd0Yt7gcffuvrsEfgjHetvyq6sinJ_1wU_6&q=Twisted+Fork+Restaurant+USA+Recognized+restaurant+brand&ved=2ahUKEwiLuJqu9IaVAxWdSvEDHZDiDEUQs6gLegQIEhAB&biw=732&bih=661&dpr=2#sv=CAwSzwkKBmxjbF9wdhIbCgNwdnESFENnMHZaeTh4TVhjek5tSnNjbk5yEtcBCgNscWkSzwFDamRVZDJsemRHVmtJRVp2Y21zZ1VtVnpkR0YxY21GdWRDQlZVMEVnVW1WamIyZHVhWHBsWkNCeVpYTjBZWFZ5WVc1MElHSnlZVzVrU0pHLXBlV011NENBQ0ZwSkVBQVFBUkFDRUFRUUJSQUdHQUFZQVNJM2RIZHBjM1JsWkNCbWIzSnJJSEpsYzNSaGRYSmhiblFnZFhOaElISmxZMjluYm1sNlpXUWdjbVZ6ZEdGMWNtRnVkQ0JpY21GdVpKSUJDbkpsYzNSaGRYSmhiblES-wYKA3RicxLzBmxyZjohMm01NSExZTE1ITRtMiExNW0xITFzaGFzXzF3aGVlbGNoYWlyXzFhY2Nlc3NpYmxlXzFlbnRyYW5jZSE0bTIhMTVtMSExc2FjY2VwdHNfMXJlc2VydmF0aW9ucyE0bTIhMTVtMSExc3NlcnZlc18xYmVlciE0bTIhMTVtMSExc3NlcnZlc18xd2luZSE0bTIhMTVtMSExc3dlbGNvbWVzXzFjaGlsZHJlbiE0bTIhMTVtMSExc2ZlZWxzXzFyb21hbnRpYyE0bTIhMTVtMSExc2hhc18xZGVsaXZlcnkhNG0yITE1bTEhMXNoYXNfMWNoaWxkcmVuc18xbWVudSE0bTIhMTVtMSExc2hhc18xdGFrZW91dCE0bTIhMTVtMSExc3BvcHVsYXJfMXdpdGhfMXRvdXJpc3RzITRtMiExNW0xITFzc2VydmVzXzFkaW5lXzFpbiE0bTIhMTVtMSExc3NlcnZlc18xZGlubmVyITRtMiExNW0xITFzc2VydmVzXzFsdW5jaCE0bTIhMTVtMSExc3NlcnZlc18xYnJ1bmNoITRtMiExNW0xITFzc2VydmVzXzFicmVha2Zhc3QhNG0yITE1bTEhMXNzZXJ2ZXNfMWhhcHB5XzFob3VyITRtMiExNW0xITFzaGFzXzF3aV8xZmkhNG0yITE1bTEhMXNzZXJ2ZXNfMXZlZ2V0YXJpYW4hMm02NiExZTYyITRtNSE2NG00ITJtMyExaTEhMmkxMCEzc1VTRCE0bTUhNjRtNCEybTMhMWkxMCEyaTIwITNzVVNEITRtNSE2NG00ITJtMyExaTIwITJpMzAhM3NVU0QhNG01ITY0bTQhMm0zITFpMzAhMmk0MCEzc1VTRCE0bTUhNjRtNCEybTMhMWk0MCEyaTUwITNzVVNEITRtNSE2NG00ITJtMyExaTUwITJpNjAhM3NVU0QhNG01ITY0bTQhMm0zITFpNjAhMmk3MCEzc1VTRCE0bTUhNjRtNCEybTMhMWk3MCEyaTgwITNzVVNEITRtNSE2NG00ITJtMyExaTgwITJpOTAhM3NVU0QhNG01ITY0bTQhMm0zITFpOTAhMmkxMDAhM3NVU0QhNG00ITY0bTMhMm0yITFpMTAwITNzVVNEITJtMSExZTIhMm0xITFlMyEzc0lBRT0SPAoBcRI3VHdpc3RlZCBGb3JrIFJlc3RhdXJhbnQgVVNBIFJlY29nbml6ZWQgcmVzdGF1cmFudCBicmFuZBoSbG9jYWwtcGxhY2Utdmlld2VyGAognY7jyAU&lpg="
+  },
+  {
+    "path-extension": "assets/twist-content/Places/",
+    "category": "Places",
+    "title": "Twisted Vine",
+    "type": "Wine Bar/Restaurant",
+    "description": "Well-known restaurant and wine bar name used in multiple cities.",
+    "image": "twisted-vine-wine.jpg",
+    "@image": "assets/twist-content/Places/twisted-vine-wine.jpg",
+    "link": "https://www.ocregister.com/2013/06/19/restaurant-review-twisted-vine-focuses-on-little-things/"
+  },
+  {
+    "path-extension": "assets/twist-content/Places/",
+    "category": "Places",
+    "title": "Twisted Laurel",
+    "type": "Restaurant",
+    "description": "Popular restaurant and bar in Asheville, North Carolina.",
+    "image": "twisted-laurel.jpg",
+    "@image": "assets/twist-content/Places/twisted-laurel.jpg",
+    "link": "https://www.google.com/search?sca_esv=8af115e11c874c1b&rlz=1C5OZZY_enGB1163GB1163&sxsrf=ANbL-n7V5JSnp0fp0OgEVA80FeBfQNtZJQ%3A1781446744993&q=Twisted+Laurel+Restaurant+USA+Popular+restaurant+and+bar+in+Asheville%2C+North+Carolina.&source=lnms&fbs=ADc_l-aN0CWEZBOHjofHoaMMDiKpaEWjvZ2Py1XXV8d8KvlI3izfzqgn7395CNCvYdZRuZ5U71YjigLP8fxOdtGNi00Ani29NVJ7f0QzWuejoQD9PdGCpNCqOF4P01aZcLxKiIpYj7NHw-n0a2OuPdZIImzr6tYg_fIdwH6LcLkDCO8XHVYVRbV7INx-xMYsP-Wnyc2w6W0ygr7-umPhRCjPlZJWO98L3g&sa=X&ved=2ahUKEwjsna-j9oaVAxWDSvEDHbw_KKgQ0pQJegQICxAB&biw=732&bih=661&dpr=2#lpg=ik:CAoSFkNJSE0wb2dLRUlDQWdJRE9nZDdFU2c%3D"
+  },
+  {
+    "path-extension": "assets/twist-content/Companies & Brands/",
+    "category": "Companies & Brands",
+    "title": "Twisted Tea",
+    "type": "Beverage Brand",
+    "description": "American hard iced tea brand produced by the Boston Beer Company.",
+    "image": "twisted-tea-logo.png",
+    "@image": "assets/twist-content/Companies & Brands/twisted-tea-logo.png",
+    "link": "https://en.wikipedia.org/wiki/Twisted_Tea"
+  },
+  {
+    "path-extension": "assets/twist-content/Companies & Brands/",
+    "category": "Companies & Brands",
+    "title": "Twisted X",
+    "type": "Footwear Brand",
+    "description": "Texas-based company known for handcrafted western and casual footwear.",
+    "image": "twistedx-logo.jpg",
+    "@image": "assets/twist-content/Companies & Brands/twistedx-logo.jpg",
+    "link": "https://www.linkedin.com/company/twisted-x-boots"
+  },
+  {
+    "path-extension": "assets/twist-content/Companies & Brands/",
+    "category": "Companies & Brands",
+    "title": "Twisted Pixel Games",
+    "type": "Game Studio",
+    "description": "American video game developer acquired by Microsoft.",
+    "image": "twisted-pixel-logo.png",
+    "@image": "assets/twist-content/Companies & Brands/twisted-pixel-logo.png",
+    "link": "https://en.wikipedia.org/wiki/Twisted_Pixel_Games"
+  },
+  {
+    "path-extension": "assets/twist-content/Companies & Brands/",
+    "category": "Companies & Brands",
+    "title": "Twisted Throttle",
+    "type": "Retailer",
+    "description": "Motorcycle accessories and riding gear retailer.",
+    "image": "twisted-throttle.jpg",
+    "@image": "assets/twist-content/Companies & Brands/twisted-throttle.jpg",
+    "link": "https://twistedthrottle.com/about-the-store/?srsltid=AfmBOoqC4T6HkNjClIzPyIz4hq27Y9RAEUq00SFB9zSKFhDVJejj5L46"
+  },
+  {
+    "path-extension": "assets/twist-content/Companies & Brands/",
+    "category": "Companies & Brands",
+    "title": "Twisted Automotive",
+    "type": "Automotive",
+    "description": "British company specializing in custom Land Rover Defender vehicles.",
+    "image": "twisted-automotive.jpg",
+    "@image": "assets/twist-content/Companies & Brands/twisted-automotive.jpg",
+    "link": "https://www.facebook.com/TwistedAutomotiveLtd/"
+  },
+  {
+    "path-extension": "assets/twist-content/Companies & Brands/",
+    "category": "Companies & Brands",
+    "title": "Twisted Root Burger Co.",
+    "type": "Restaurant Chain",
+    "description": "American burger restaurant chain founded in Texas.",
+    "image": "twisted-root-burger-logo.jpg",
+    "@image": "assets/twist-content/Companies & Brands/twisted-root-burger-logo.jpg",
+    "link": "https://www.seamless.com/menu/twisted-root-burger-co-801-s-2nd-st-waco/3149503"
+  },
+  {
+    "path-extension": "assets/twist-content/Companies & Brands/",
+    "category": "Companies & Brands",
+    "title": "Twisted Laurel",
+    "type": "Restaurant Group",
+    "description": "North Carolina restaurant and hospitality brand.",
+    "image": "twisted-laurel.png",
+    "@image": "assets/twist-content/Companies & Brands/twisted-laurel.png",
+    "link": "https://twistedlaurel.com/"
+  },
+  {
+    "path-extension": "assets/twist-content/Companies & Brands/",
+    "category": "Companies & Brands",
+    "title": "Twisted Ranch",
+    "type": "Restaurant Brand",
+    "description": "Restaurant concept centered on ranch-flavored dishes.",
+    "image": "twisted-ranch.jpg",
+    "@image": "assets/twist-content/Companies & Brands/twisted-ranch.jpg",
+    "link": "https://news.kraftheinzcompany.com/press-releases-details/2019/St-Louis-Ranch-Destination-Twisted-Ranch-Expands-to-Grocery-Stores-with-National-Ranch-Line/default.aspx"
+  },
+  {
+    "path-extension": "assets/twist-content/Companies & Brands/",
+    "category": "Companies & Brands",
+    "title": "Twisted Fresh",
+    "type": "Restaurant Chain",
+    "description": "Fast-casual restaurant chain serving wraps, bowls, and salads.",
+    "image": "twisted-fresh2.jpg",
+    "@image": "assets/twist-content/Companies & Brands/twisted-fresh2.jpg",
+    "link": "https://www.twistedfresh.com/get-twisted/"
+  },
+  {
+    "path-extension": "assets/twist-content/Companies & Brands/",
+    "category": "Companies & Brands",
+    "title": "Twisted Oak Winery",
+    "type": "Winery",
+    "description": "California winery producing estate wines.",
+    "image": "twisted-oak-winery.jpg",
+    "@image": "assets/twist-content/Companies & Brands/twisted-oak-winery.jpg",
+    "link": "https://en.wikipedia.org/wiki/Twisted_Oak_Winery"
+  },
+  {
+    "path-extension": "assets/twist-content/Companies & Brands/",
+    "category": "Companies & Brands",
+    "title": "Twisted Pair Solutions",
+    "type": "Technology Company",
+    "description": "Networking and IT services company name used commercially.",
+    "image": "twisted-pair-logo.jpg",
+    "@image": "assets/twist-content/Companies & Brands/twisted-pair-logo.jpg",
+    "link": "https://twistedpair.global/"
+  },
+  {
+    "path-extension": "assets/twist-content/Products/",
+    "category": "Products",
+    "title": "Twister",
+    "type": "Board Game",
+    "description": "Classic floor-based party game originally released by Milton Bradley.",
+    "image": "twister-game.jpg",
+    "@image": "assets/twist-content/Products/twister-game.jpg",
+    "link": "https://www.ebay.com/itm/116287972408"
+  },
+  {
+    "path-extension": "assets/twist-content/Products/",
+    "category": "Products",
+    "title": "Twister Air",
+    "type": "Board Game",
+    "description": "Augmented reality version of Twister using a companion app.",
+    "image": "twisted-air.jpg",
+    "@image": "assets/twist-content/Products/twisted-air.jpg",
+    "link": "https://www.amazon.de/-/en/Hasbro-Gaming-Augmented-Combined-Intelligent/dp/B0C8283VQS"
+  },
+  {
+    "path-extension": "assets/twist-content/Products/",
+    "category": "Products",
+    "title": "Twister Ultimate",
+    "type": "Board Game",
+    "description": "Oversized outdoor edition of the Twister game.",
+    "image": "twister-ultimate.jpg",
+    "@image": "assets/twist-content/Products/twister-ultimate.jpg",
+    "link": "https://business.walmart.com/ip/Twister-Ultimate-Game/52055705"
+  },
+  {
+    "path-extension": "assets/twist-content/Products/",
+    "category": "Products",
+    "title": "Twister Dance",
+    "type": "Electronic Game",
+    "description": "Music and dance game based on the Twister brand.",
+    "image": "twister-electronic.jpg",
+    "@image": "assets/twist-content/Products/twister-electronic.jpg",
+    "link": "https://instructions.hasbro.com/en-nz/instruction/twister-dance"
+  },
+  {
+    "path-extension": "assets/twist-content/Products/",
+    "category": "Products",
+    "title": "Twister Dance Rave",
+    "type": "Electronic Game",
+    "description": "Light-up dance game from the Twister line.",
+    "image": "twister-dance-rave.jpg",
+    "@image": "assets/twist-content/Products/twister-dance-rave.jpg",
+    "link": "https://www.amazon.de/-/en/Hasbro-A2975100-Twister-Rave-Dance/dp/B00C6Q6A7I"
+  },
+  {
+    "path-extension": "assets/twist-content/Products/",
+    "category": "Products",
+    "title": "Twister Scram",
+    "type": "Family Game",
+    "description": "Obstacle-course style game released under the Twister brand.",
+    "image": "twister-scram.jpg",
+    "@image": "assets/twist-content/Products/twister-scram.jpg",
+    "link": "https://www.kidspartyhire.co.nz/product/twister-scram/"
+  },
+  {
+    "path-extension": "assets/twist-content/Products/",
+    "category": "Products",
+    "title": "Twister Hoopla",
+    "type": "Family Game",
+    "description": "Ring-toss game released under the Twister brand.",
+    "image": "twister-hoopla.jpg",
+    "@image": "assets/twist-content/Products/twister-hoopla.jpg",
+    "link": "https://spieletest.at/gesellschaftsspiel/1423/twister-hoopla"
+  },
+  {
+    "path-extension": "assets/twist-content/Products/",
+    "category": "Products",
+    "title": "Twister Moves",
+    "type": "Electronic Toy",
+    "description": "Motion-based electronic toy in the Twister series.",
+    "image": "twister-moves.jpg",
+    "@image": "assets/twist-content/Products/twister-moves.jpg",
+    "link": "https://www.amazon.de/Twister-Moves-mit-Jesse-Mccartney/dp/B003ID7WLG"
+  },
+  {
+    "path-extension": "assets/twist-content/Products/",
+    "category": "Products",
+    "title": "Twister Ice Lolly",
+    "type": "Frozen Confection",
+    "description": "Spiral fruit-flavoured ice lolly sold in multiple countries.",
+    "image": "twister-icelolly.jpg",
+    "@image": "assets/twist-content/Products/twister-icelolly.jpg",
+    "link": "https://www.countrychoice.co.uk/ice-cream/impulse/walls/twister-pineapple-strawberry-lemon-lime-flavour-ice-cream-lolly/p/1838"
+  },
+  {
+    "path-extension": "assets/twist-content/Products/",
+    "category": "Products",
+    "title": "Twisted Tea Original",
+    "type": "Beverage",
+    "description": "Original hard iced tea beverage from the Twisted Tea range.",
+    "image": "twisted-tea.jpg",
+    "@image": "assets/twist-content/Products/twisted-tea.jpg",
+    "link": "https://www.twistedtea.com/products/twisted-tea-original"
+  },
+  {
+    "path-extension": "assets/twist-content/Products/",
+    "category": "Products",
+    "title": "Twisted Tea Half & Half",
+    "type": "Beverage",
+    "description": "Hard iced tea blended with lemonade.",
+    "image": "twisted-tea-half.png",
+    "@image": "assets/twist-content/Products/twisted-tea-half.png",
+    "link": "https://www.lundsandbyerlys.com/product/twisted-tea-half-&-half-hard-lemonade-iced-tea-id-00087692751342"
+  },
+  {
+    "path-extension": "assets/twist-content/Products/",
+    "category": "Products",
+    "title": "Twisted Tea Peach",
+    "type": "Beverage",
+    "description": "Peach-flavoured hard iced tea.",
+    "image": "twisted-tea-peach.png",
+    "@image": "assets/twist-content/Products/twisted-tea-peach.png",
+    "link": "https://beverages2u.com/product/twisted-tea-peach-24-12-oz-bottles/?srsltid=AfmBOoo6g2D22_SEirq5LMvW-TmWglOoSxYmoHSg1X4P3awSE8FXUZMa"
+  },
+  {
+    "path-extension": "assets/twist-content/Products/",
+    "category": "Products",
+    "title": "Twisted Tea Raspberry",
+    "type": "Beverage",
+    "description": "Raspberry-flavoured hard iced tea.",
+    "image": "twisted-tea-raspberry.jpg",
+    "@image": "assets/twist-content/Products/twisted-tea-raspberry.jpg",
+    "link": "https://www.twistedtea.com/products/twisted-tea-raspberry"
+  },
+  {
+    "path-extension": "assets/twist-content/Products/",
+    "category": "Products",
+    "title": "Twisted X Driving Moc",
+    "type": "Footwear",
+    "description": "Popular leather driving moccasin from Twisted X.",
+    "image": "twistedxdriving-footware.jpg",
+    "@image": "assets/twist-content/Products/twistedxdriving-footware.jpg",
+    "link": "https://twistedx.com/products/mdm0097"
+  },
+  {
+    "path-extension": "assets/twist-content/Products/",
+    "category": "Products",
+    "title": "Twisted X Chukka",
+    "type": "Footwear",
+    "description": "Casual leather chukka boot from Twisted X.",
+    "image": "twistedxchukka-footwear.jpg",
+    "@image": "assets/twist-content/Products/twistedxchukka-footwear.jpg",
+    "link": "https://twistedx.com/products/mdm0097"
+  },
+  {
+    "path-extension": "assets/twist-content/Products/",
+    "category": "Products",
+    "title": "Twisted X Work Boot",
+    "type": "Footwear",
+    "description": "Protective work boot line from Twisted X.",
+    "image": "twisted-western-boot.jpg",
+    "@image": "assets/twist-content/Products/twisted-western-boot.jpg",
+    "link": "https://www.twistedxshop.de/Western-Boot-Twisted-X-Mens-Workboots-Comfort"
+  },
+  {
+    "path-extension": "assets/twist-content/Products/",
+    "category": "Products",
+    "title": "Twisted Metal",
+    "type": "Video Game",
+    "description": "Original PlayStation vehicular combat video game.",
+    "image": "twisted-metal-logo.png",
+    "@image": "assets/twist-content/Products/twisted-metal-logo.png",
+    "link": "https://en.wikipedia.org/wiki/Twisted_Metal"
+  },
+  {
+    "path-extension": "assets/twist-content/Products/",
+    "category": "Products",
+    "title": "Twisted Metal: Black",
+    "type": "Video Game",
+    "description": "PlayStation 2 entry in the Twisted Metal series.",
+    "image": "twisted-metal-black.jpg",
+    "@image": "assets/twist-content/Products/twisted-metal-black.jpg",
+    "link": "https://en.wikipedia.org/wiki/Twisted_Metal:_Black"
+  },
+  {
+    "path-extension": "assets/twist-content/Products/",
+    "category": "Products",
+    "title": "Disney Twisted-Wonderland Trading Cards",
+    "type": "Collectible",
+    "description": "Official trading card merchandise based on Disney Twisted-Wonderland.",
+    "image": "twisted-disney-tradingcards.jpg",
+    "@image": "assets/twist-content/Products/twisted-disney-tradingcards.jpg",
+    "link": "https://www.ebay.com/itm/283973536600"
+  },
+  {
+    "path-extension": "assets/twist-content/Products/",
+    "category": "Products",
+    "title": "Disney Twisted-Wonderland Acrylic Stand",
+    "type": "Collectible",
+    "description": "Licensed acrylic character display merchandise.",
+    "image": "twisted-acrylic-stands.jpg",
+    "@image": "assets/twist-content/Products/twisted-acrylic-stands.jpg",
+    "link": "https://www.ebay.com/itm/155415281751"
+  },
+  {
+    "path-extension": "assets/twist-content/Products/",
+    "category": "Products",
+    "title": "Twisted Willow Branches",
+    "type": "Home D�cor",
+    "description": "Decorative dried branches used in floral arrangements.",
+    "image": "twisted-willow.jpg",
+    "@image": "assets/twist-content/Products/twisted-willow.jpg",
+    "link": "https://www.eventrentalsottawa.com/products/curly-willow-stem"
+  },
+  {
+    "path-extension": "assets/twist-content/Products/",
+    "category": "Products",
+    "title": "Twist Tie",
+    "type": "Household Item",
+    "description": "Wire fastener used for sealing bags and bundling cables.",
+    "image": "twist-tie.jpg",
+    "@image": "assets/twist-content/Products/twist-tie.jpg",
+    "link": "https://guatemaladigital.com/Easytle-5%22-Plastic-Black-Twist-TiesTwist-TieCable-TiesCable-Tie-100-Pcs-%28Color:Black-Tama%C3%B1o:100-PCS%29/Producto/5675715"
+  },
+  {
+    "path-extension": "assets/twist-content/Products/",
+    "category": "Products",
+    "title": "Twist Drill Bit",
+    "type": "Tool",
+    "description": "Standard spiral drill bit for wood, metal, and plastic.",
+    "image": "twist-drill.jpg",
+    "@image": "assets/twist-content/Products/twist-drill.jpg",
+    "link": "https://www.walmart.ca/en/ip/6Pcs-Brad-Point-Drill-Bit-Set-High-Speed-Steel-Wood-1-4-Inch-Hex-Shank-Sharp-Twist-Woodworking-Tool-Fibreboard-Hardwood-Plywood-Soft-Metal/37WP3N073NJN"
+  },
+  {
+    "path-extension": "assets/twist-content/Products/",
+    "category": "Products",
+    "title": "Twist Pen",
+    "type": "Stationery",
+    "description": "Pen operated by a rotating twist mechanism.",
+    "image": "",
+    "@image": "assets/twist-content/Products/",
+    "link": "https://beartoothwoods.com/catalog/product_info.php?products_id=6619"
+  },
+  {
+    "path-extension": "assets/twist-content/Products/",
+    "category": "Products",
+    "title": "Twist Cap",
+    "type": "Packaging",
+    "description": "Rotating screw cap used on bottles and containers.",
+    "image": "twist-cap-squeeze.jpg",
+    "@image": "assets/twist-content/Products/twist-cap-squeeze.jpg",
+    "link": "https://www.sks-bottle.com/product/5850.html?srsltid=AfmBOoqpYYNoSP2KCJdv1EadDgZVkfGsX7ijOfatNHMzIto2rap8T6KI"
+  },
+  {
+    "path-extension": "assets/twist-content/Sport/",
+    "category": "Sports",
+    "title": "The Twist",
+    "type": "Figure Skating Move",
+    "description": "Informal name used for twisting rotational elements in exhibition skating.",
+    "image": "the-twist-skating.jpg",
+    "@image": "assets/twist-content/Sport/the-twist-skating.jpg",
+    "link": "https://www.nytimes.com/interactive/2018/02/14/sports/olympics/skating-triple-twist.html"
+  },
+  {
+    "path-extension": "assets/twist-content/Sport/",
+    "category": "Sports",
+    "title": "Twisting Dive",
+    "type": "Diving",
+    "description": "Dive incorporating one or more twists during flight.",
+    "image": "twist-dive.jpg",
+    "@image": "assets/twist-content/Sport/twist-dive.jpg",
+    "link": "https://www.redbull.com/us-en/somersaults-twists-important-cliff-diving"
+  },
+  {
+    "path-extension": "assets/twist-content/Sport/",
+    "category": "Sports",
+    "title": "Twisting Somersault",
+    "type": "Gymnastics",
+    "description": "Acrobatic maneuver combining a somersault with body twists.",
+    "image": "twist-somersault.jpg",
+    "@image": "assets/twist-content/Sport/twist-somersault.jpg",
+    "link": "https://gymnasticscoaching.com/crossed-legs-on-twist/"
+  },
+  {
+    "path-extension": "assets/twist-content/Sport/",
+    "category": "Sports",
+    "title": "Twist Turn",
+    "type": "Swimming",
+    "description": "Competitive swimming turn involving body rotation.",
+    "image": "twist-turn-swim.jpg",
+    "@image": "assets/twist-content/Sport/twist-turn-swim.jpg",
+    "link": "https://www.swimmingworldmagazine.com/news/learn-these-important-skills-and-drills-to-have-a-killer-flip-turn/"
+  },
+  {
+    "path-extension": "assets/twist-content/Sport/",
+    "category": "Sports",
+    "title": "Twist Serve",
+    "type": "Tennis",
+    "description": "Serve with topspin and sidespin causing a high bounce.",
+    "image": "twist-serve.jpg",
+    "@image": "assets/twist-content/Sport/twist-serve.jpg",
+    "link": "https://www.tiktok.com/@henryjess/video/7267750855317802245"
+  },
+  {
+    "path-extension": "assets/twist-content/Sport/",
+    "category": "Sports",
+    "title": "Twist Kick",
+    "type": "Martial Arts",
+    "description": "Spinning or twisting kick used in several martial arts.",
+    "image": "twist-kick.jpg",
+    "@image": "assets/twist-content/Sport/twist-kick.jpg",
+    "link": "https://sooshimkwan.blogspot.com/2018/04/the-twisting-kick.html"
+  },
+  {
+    "path-extension": "assets/twist-content/Sport/",
+    "category": "Sports",
+    "title": "Twister",
+    "type": "Towable Watersports Tube",
+    "description": "Inflatable tube towed behind a speedboat for recreation.",
+    "image": "twister-towable-watersports.jpg",
+    "@image": "assets/twist-content/Sport/twister-towable-watersports.jpg",
+    "link": "https://www.nauticexpo.com/prod/commercial-towables/product-33769-572772.html"
+  },
+  {
+    "path-extension": "assets/twist-content/Sport/",
+    "category": "Sports",
+    "title": "Twister",
+    "type": "Snowboarding Trick",
+    "description": "Nickname applied to certain twisting aerial maneuvers.",
+    "image": "twister-snowboarding.jpg",
+    "@image": "assets/twist-content/Sport/twister-snowboarding.jpg",
+    "link": "https://outdoors.stackexchange.com/questions/9817/twisting-board-technique-when-turning-a-snowboard"
+  },
+  {
+    "path-extension": "assets/twist-content/Sport/",
+    "category": "Sports",
+    "title": "Twist",
+    "type": "Climbing Move",
+    "description": "Body rotation technique used to reach holds efficiently.",
+    "image": "twist-lock-climbing.jpg",
+    "@image": "assets/twist-content/Sport/twist-lock-climbing.jpg",
+    "link": "https://www.reddit.com/r/climbing/comments/18gfmg/twist_lock_and_backstepping_technique/"
+  },
+  {
+    "path-extension": "assets/twist-content/Sport/",
+    "category": "Sports",
+    "title": "Double Twist",
+    "type": "Gymnastics Skill",
+    "description": "Skill involving two complete twists during aerial rotation.",
+    "image": "double-twist.jpg",
+    "@image": "assets/twist-content/Sport/double-twist.jpg",
+    "link": "https://www.nytimes.com/interactive/2016/08/11/sports/olympics/simone-biles-winning-moves.html"
+  },
+  {
+    "path-extension": "assets/twist-content/Sport/",
+    "category": "Sports",
+    "title": "Triple Twist",
+    "type": "Freestyle Skiing",
+    "description": "Advanced aerial skill with three twists.",
+    "image": "triple-twist-skii.jpg",
+    "@image": "assets/twist-content/Sport/triple-twist-skii.jpg",
+    "link": "https://www.npr.org/transcripts/582091144"
+  },
+  {
+    "path-extension": "assets/twist-content/Sport/",
+    "category": "Sports",
+    "title": "Twist Rotation",
+    "type": "Discus/Hammer Technique",
+    "description": "Rotational movement generating throwing power.",
+    "image": "twist-rotation-discus.jpg",
+    "@image": "assets/twist-content/Sport/twist-rotation-discus.jpg",
+    "link": "https://svrg.id/en/blogs/the-journey/hammer-throw?srsltid=AfmBOorNN1mCqvlG1UHYyEPAFhFaWWiQO2pSWoxSSABaczHZEkX75mdJ"
+  },
+  {
+    "path-extension": "assets/twist-content/Art/",
+    "category": "Art",
+    "title": "Twist",
+    "type": "Sculpture",
+    "description": "Bronze sculpture series by Tony Cragg exploring twisting organic forms.",
+    "image": "twist-tony-cragg.jpg",
+    "@image": "assets/twist-content/Art/twist-tony-cragg.jpg",
+    "link": "https://ga.de/news/kultur-und-medien/regional/ein-paar-in-bewegung_aid-42408465"
+  },
+  {
+    "path-extension": "assets/twist-content/Art/",
+    "category": "Art",
+    "title": "Twister Again",
+    "type": "Sculpture",
+    "description": "Monumental steel sculpture by Richard Serra created in 1987.",
+    "image": "twist-richard-fulcrum.png",
+    "@image": "assets/twist-content/Art/twist-richard-fulcrum.png",
+    "link": "https://www.davidzwirner.com/artworks/richard-serra-sequence-bd45d"
+  },
+  {
+    "path-extension": "assets/twist-content/Art/",
+    "category": "Art",
+    "title": "Twister Star Hugger",
+    "type": "Public Sculpture",
+    "description": "Stainless-steel sculpture by Marcus Ashley.",
+    "image": "twister-star-hugger.jpg",
+    "@image": "assets/twist-content/Art/twister-star-hugger.jpg",
+    "link": "https://www.grovewood.com/product/lyman-whitaker-twister-star-wind-sculpture/"
+  },
+  {
+    "path-extension": "assets/twist-content/Art/",
+    "category": "Art",
+    "title": "Twist",
+    "type": "Public Sculpture",
+    "description": "Large outdoor sculpture title used by Alice Aycock featuring dynamic spiral forms.",
+    "image": "twist-alice-aycock.jpeg",
+    "@image": "assets/twist-content/Art/twist-alice-aycock.jpeg",
+    "link": "https://www.aaycock.com/cyclone-twist-chatsworth"
+  },
+  {
+    "path-extension": "assets/twist-content/Art/",
+    "category": "Art",
+    "title": "Twisted House",
+    "type": "Installation",
+    "description": "Distorted architectural installation by Erwin Wurm.",
+    "image": "fat-house-erwin.jpg",
+    "@image": "assets/twist-content/Art/fat-house-erwin.jpg",
+    "link": "https://www.dezeen.com/2017/08/08/erwin-wurm-fat-house-installation-vienna-upper-belvedere-palace-21er-haus/"
+  },
+  {
+    "path-extension": "assets/twist-content/Art/",
+    "category": "Art",
+    "title": "Twister",
+    "type": "Sculpture",
+    "description": "Abstract sculpture title by Bernar Venet.",
+    "image": "twister-bernar-venet.jpg",
+    "@image": "assets/twist-content/Art/twister-bernar-venet.jpg",
+    "link": "https://www.ragoarts.com/auctions/2024/04/unbound-the-dina-jerry-wind-collection/103"
+  },
+  {
+    "path-extension": "assets/twist-content/Hair Styles/",
+    "category": "Hair Styles",
+    "title": "French Twist",
+    "type": "Updo",
+    "description": "Classic elegant updo where hair is rolled upward against the head.",
+    "image": "french-twist-updo.jpg",
+    "@image": "assets/twist-content/Hair Styles/french-twist-updo.jpg",
+    "link": "https://therighthairstyles.com/french-twist-updos/"
+  },
+  {
+    "path-extension": "assets/twist-content/Hair Styles/",
+    "category": "Hair Styles",
+    "title": "Twisted Bun",
+    "type": "Updo",
+    "description": "Bun hairstyle created by twisting sections of hair together.",
+    "image": "twisted-knot.jpg",
+    "@image": "assets/twist-content/Hair Styles/twisted-knot.jpg",
+    "link": "https://missysue.com/2016/01/twisted-knot-low-bun/"
+  },
+  {
+    "path-extension": "assets/twist-content/Hair Styles/",
+    "category": "Hair Styles",
+    "title": "Two-Strand Twist",
+    "type": "Protective Style",
+    "description": "Natural hairstyle formed by twisting two sections of hair.",
+    "image": "two-strand-twist-hair.jpg",
+    "@image": "assets/twist-content/Hair Styles/two-strand-twist-hair.jpg",
+    "link": "https://www.youtube.com/watch?v=Kv6StRfcncc"
+  },
+  {
+    "path-extension": "assets/twist-content/Hair Styles/",
+    "category": "Hair Styles",
+    "title": "Flat Twist",
+    "type": "Protective Style",
+    "description": "Twist styled close to the scalp.",
+    "image": "flat-twist-protective.jpg",
+    "@image": "assets/twist-content/Hair Styles/flat-twist-protective.jpg",
+    "link": "https://therighthairstyles.com/simple-flat-twist-styles/"
+  },
+  {
+    "path-extension": "assets/twist-content/Hair Styles/",
+    "category": "Hair Styles",
+    "title": "Passion Twists",
+    "type": "Protective Style",
+    "description": "Bohemian-inspired two-strand twists using extension hair.",
+    "image": "passion-twist.jpg",
+    "@image": "assets/twist-content/Hair Styles/passion-twist.jpg",
+    "link": "https://www.elle.com/beauty/hair/a31980451/passion-twists/"
+  },
+  {
+    "path-extension": "assets/twist-content/Hair Styles/",
+    "category": "Hair Styles",
+    "title": "Marley Twists",
+    "type": "Protective Style",
+    "description": "Chunky twists created with Marley-textured extensions.",
+    "image": "marley-twists.jpg",
+    "@image": "assets/twist-content/Hair Styles/marley-twists.jpg",
+    "link": "https://therighthairstyles.com/marley-twists/"
+  },
+  {
+    "path-extension": "assets/twist-content/Hair Styles/",
+    "category": "Hair Styles",
+    "title": "Havana Twists",
+    "type": "Protective Style",
+    "description": "Large rope-like twists made with Havana hair.",
+    "image": "havana-twist.jpg",
+    "@image": "assets/twist-content/Hair Styles/havana-twist.jpg",
+    "link": "https://www.byrdie.com/havana-twists-4693475"
+  },
+  {
+    "path-extension": "assets/twist-content/Hair Styles/",
+    "category": "Hair Styles",
+    "title": "Senegalese Twists",
+    "type": "Protective Style",
+    "description": "Smooth rope twists using synthetic extensions.",
+    "image": "senegalese-twists.jpg",
+    "@image": "assets/twist-content/Hair Styles/senegalese-twists.jpg",
+    "link": "https://un-ruly.com/senegalese-twists-everything-you-need-to-know-about/"
+  },
+  {
+    "path-extension": "assets/twist-content/Hair Styles/",
+    "category": "Hair Styles",
+    "title": "Mini Twists",
+    "type": "Protective Style",
+    "description": "Small two-strand twists on natural hair.",
+    "image": "mini-twists.jpg",
+    "@image": "assets/twist-content/Hair Styles/mini-twists.jpg",
+    "link": "https://frohub.com/what-are-mini-twists/"
+  },
+  {
+    "path-extension": "assets/twist-content/Hair Styles/",
+    "category": "Hair Styles",
+    "title": "Chunky Twists",
+    "type": "Protective Style",
+    "description": "Large two-strand twists.",
+    "image": "chunky-twists.jpg",
+    "@image": "assets/twist-content/Hair Styles/chunky-twists.jpg",
+    "link": "https://www.tiktok.com/@naturallyshonta/video/7601611075578105119"
+  },
+  {
+    "path-extension": "assets/twist-content/Hair Styles/",
+    "category": "Hair Styles",
+    "title": "Twist Out",
+    "type": "Natural Hairstyle",
+    "description": "Style created by unraveling twists.",
+    "image": "twist-out.jpg",
+    "@image": "assets/twist-content/Hair Styles/twist-out.jpg",
+    "link": "https://patternbeauty.com/blogs/news/how-to-do-a-twist-out-in-7-steps?srsltid=AfmBOooH_kzq3567klWxniff8yiy4z9S5jUAjgtDNZVtU_wZ1_TsBvd4"
+  },
+  {
+    "path-extension": "assets/twist-content/Hair Styles/",
+    "category": "Hair Styles",
+    "title": "Flat Twist Out",
+    "type": "Natural Hairstyle",
+    "description": "Defined curls created by unraveling flat twists.",
+    "image": "flat-twist-out.jpg",
+    "@image": "assets/twist-content/Hair Styles/flat-twist-out.jpg",
+    "link": "https://www.youtube.com/watch?v=_qaWRmGSzQk"
+  },
+  {
+    "path-extension": "assets/twist-content/Hair Styles/",
+    "category": "Hair Styles",
+    "title": "Twisted Crown",
+    "type": "Updo",
+    "description": "Hair twisted around the head to form a crown.",
+    "image": "twist-crown-all.jpg",
+    "@image": "assets/twist-content/Hair Styles/twist-crown-all.jpg",
+    "link": "https://www.youtube.com/watch?v=5wUthYQXES8"
+  },
+  {
+    "path-extension": "assets/twist-content/Hair Styles/",
+    "category": "Hair Styles",
+    "title": "Half-Up Twisted Crown",
+    "type": "Half-Up Style",
+    "description": "Twisted crown with loose hair.",
+    "image": "twisted-crown-half.jpg",
+    "@image": "assets/twist-content/Hair Styles/twisted-crown-half.jpg",
+    "link": "https://www.youtube.com/watch?v=svFSkypRHSQ"
+  },
+  {
+    "path-extension": "assets/twist-content/Hair Styles/",
+    "category": "Hair Styles",
+    "title": "Twisted Ponytail",
+    "type": "Ponytail",
+    "description": "Ponytail incorporating twisted sections.",
+    "image": "twisted-flip-ponytail-hairstyle.png",
+    "@image": "assets/twist-content/Hair Styles/twisted-flip-ponytail-hairstyle.png",
+    "link": "https://es.pinterest.com/pin/31173422405464815/"
+  },
+  {
+    "path-extension": "assets/twist-content/Hair Styles/",
+    "category": "Hair Styles",
+    "title": "Twisted Pigtails",
+    "type": "Hairstyle",
+    "description": "Pair of pigtails formed using twists.",
+    "image": "twisted-pigtails.jpg",
+    "@image": "assets/twist-content/Hair Styles/twisted-pigtails.jpg",
+    "link": "https://www.tiktok.com/@meredithwelborn/video/7198025855476616494"
+  },
+  {
+    "path-extension": "assets/twist-content/Medical & Anatomy/",
+    "category": "Anatomy",
+    "title": "Gyrus / Sulcus",
+    "type": "Brain Contortions",
+    "description": "The twisted, winding ridges (gyri) and grooves (sulci) of the cerebral cortex that maximize surface area.",
+    "image": "gyrus-sulcus.jpg",
+    "@image": "assets/twist-content/Medical & Anatomy/gyrus-sulcus.jpg",
+    "link": "https://www.thoughtco.com/gyri-and-sulci-of-the-brain-4093453"
+  },
+  {
+    "path-extension": "assets/twist-content/Medical & Anatomy/",
+    "category": "Anatomy",
+    "title": "Umbilical Cord Twist",
+    "type": "Fetal Anatomy",
+    "description": "The natural helical twisting of the umbilical blood vessels, which protects them from compression.",
+    "image": "umbilical-cord-twist.jpg",
+    "@image": "assets/twist-content/Medical & Anatomy/umbilical-cord-twist.jpg",
+    "link": "https://medicalxpress.com/news/2025-09-spirals-umbilical-cord-babies-cool.html"
+  },
+  {
+    "path-extension": "assets/twist-content/Medical & Anatomy/",
+    "category": "Anatomy",
+    "title": "Cardiac Loop",
+    "type": "Embryology",
+    "description": "The crucial embryological process where the linear heart tube bends and twists to form the complex four-chambered heart structure.",
+    "image": "cardiac-loop.jpg",
+    "@image": "assets/twist-content/Medical & Anatomy/cardiac-loop.jpg",
+    "link": "https://embryology.ch/en/organogenesis/cardiovascular-system/formation-tube-cardiaque.html?p=2"
+  },
+  {
+    "path-extension": "assets/twist-content/Medical & Anatomy/",
+    "category": "Anatomy",
+    "title": "DNA Double Helix",
+    "type": "Genetics",
+    "description": "The microscopic, counter-twisted ladder structure carrying all human genetic material.",
+    "image": "dna-helix.png",
+    "@image": "assets/twist-content/Medical & Anatomy/dna-helix.png",
+    "link": "https://en.wikipedia.org/wiki/Nucleic_acid_double_helix"
+  },
+  {
+    "path-extension": "assets/twist-content/Medical & Anatomy/",
+    "category": "Anatomy",
+    "title": "Testicular Torsion",
+    "type": "Urological Emergency",
+    "description": "A critical condition where the spermatic cord twists, cutting off the blood supply to the testicle.",
+    "image": "teticular-torsion.jpg",
+    "@image": "assets/twist-content/Medical & Anatomy/teticular-torsion.jpg",
+    "link": "https://coreem.net/core/testicular-torsion/"
+  },
+  {
+    "path-extension": "assets/twist-content/Medical & Anatomy/",
+    "category": "Anatomy",
+    "title": "Ovarian Torsion",
+    "type": "Gynecological Emergency",
+    "description": "An emergency where an ovary twists around its supporting ligaments, occluding blood flow.",
+    "image": "ovarian-torsion.jpg",
+    "@image": "assets/twist-content/Medical & Anatomy/ovarian-torsion.jpg",
+    "link": "https://my.clevelandclinic.org/health/diseases/ovarian-torsion"
+  },
+  {
+    "path-extension": "assets/twist-content/Medical & Anatomy/",
+    "category": "Anatomy",
+    "title": "Volvulus",
+    "type": "Gastroenterology",
+    "description": "A literal twisting of a loop of the intestine around its mesenteric base, causing bowel obstruction.",
+    "image": "volvulus.jpeg",
+    "@image": "assets/twist-content/Medical & Anatomy/volvulus.jpeg",
+    "link": "https://teachmesurgery.com/general/large-bowel/volvulus/"
+  },
+  {
+    "path-extension": "assets/twist-content/Medical & Anatomy/",
+    "category": "Anatomy",
+    "title": "Scoliosis",
+    "type": "Orthopedics",
+    "description": "A complex structural deformity where the spine doesn't just curve sideways, but also undergoes abnormal axial twisting.",
+    "image": "scoliosis.jpg",
+    "@image": "assets/twist-content/Medical & Anatomy/scoliosis.jpg",
+    "link": "https://pediatricorthopedics.com/scoliosis/"
+  },
+  {
+    "path-extension": "assets/twist-content/Medical & Anatomy/",
+    "category": "Anatomy",
+    "title": "Torsades de Pointes",
+    "type": "Cardiology",
+    "description": "A specific, life-threatening polymorphic ventricular tachycardia where the ECG wave complexes appear to twist around the baseline.",
+    "image": "torsades-de-pointes.jpg",
+    "@image": "assets/twist-content/Medical & Anatomy/torsades-de-pointes.jpg",
+    "link": "https://my.clevelandclinic.org/health/diseases/21915-torsades-de-pointes"
+  },
+  {
+    "path-extension": "assets/twist-content/Medical & Anatomy/",
+    "category": "Anatomy",
+    "title": "Gastric Volvulus",
+    "type": "Gastroenterology",
+    "description": "A rare medical emergency where the stomach twists along its long or short axis by more than 180 degrees.",
+    "image": "gastric-volvulus.jpg",
+    "@image": "assets/twist-content/Medical & Anatomy/gastric-volvulus.jpg",
+    "link": "https://radiopaedia.org/articles/gastric-volvulus"
+  },
+  {
+    "path-extension": "assets/twist-content/Medical & Anatomy/",
+    "category": "Anatomy",
+    "title": "Ankle Sprain (Inversion)",
+    "type": "Traumatology",
+    "description": "A sudden, painful inward twisting of the foot that stretches or tears the lateral ligaments.",
+    "image": "inversion-ankle-injuries.jpg",
+    "@image": "assets/twist-content/Medical & Anatomy/inversion-ankle-injuries.jpg",
+    "link": "https://321gomd.com/ankle-sprain/"
+  },
+  {
+    "path-extension": "assets/twist-content/Medical & Anatomy/",
+    "category": "Anatomy",
+    "title": "Knee Torsion Injury",
+    "type": "Traumatology",
+    "description": "A rotational trauma to the knee, frequently resulting in ACL tears or meniscus damage.",
+    "image": "knee-torsion.jpg",
+    "@image": "assets/twist-content/Medical & Anatomy/knee-torsion.jpg",
+    "link": "https://my.clevelandclinic.org/health/diseases/knee-sprain"
+  },
+  {
+    "path-extension": "assets/twist-content/Medical & Anatomy/",
+    "category": "Anatomy",
+    "title": "Torsional Fracture",
+    "type": "Orthopedics",
+    "description": "Also known as a spiral fracture; a bone fracture occurring when a rotating torque force is applied along the axis of a bone.",
+    "image": "torsional-fracture-orthopedics.jpg",
+    "@image": "assets/twist-content/Medical & Anatomy/torsional-fracture-orthopedics.jpg",
+    "link": "https://musculoskeletalkey.com/applying-biomechanics-in-orthopedics/"
+  },
+  {
+    "path-extension": "assets/twist-content/Medical & Anatomy/",
+    "category": "Anatomy",
+    "title": "Axial Rotation of Spine",
+    "type": "Biomechanics",
+    "description": "The twisting mechanism of the vertebrae that allows the human torso to turn left and right.",
+    "image": "axial-rotation-spine.png",
+    "@image": "assets/twist-content/Medical & Anatomy/axial-rotation-spine.png",
+    "link": "https://www.semanticscholar.org/paper/Biomechanics-of-Lumbar-Spine-and-Lumbar-Disc-%C3%96kteno%C4%9Flu/05220578268d5e4b89b63189ae2556fe99cc6dee/figure/0"
+  },
+  {
+    "path-extension": "assets/twist-content/Myth & Symbolism/",
+    "category": "Mythology & Folklore",
+    "title": "Twisting World Serpent",
+    "type": "Norse Mythology",
+    "description": "The world-encircling serpent depicted in a coiled form.",
+    "image": "world-serpent.jpg",
+    "@image": "assets/twist-content/Myth & Symbolism/world-serpent.jpg",
+    "link": "https://kids.britannica.com/students/article/Jormungand/311921"
+  },
+  {
+    "path-extension": "assets/twist-content/Myth & Symbolism/",
+    "category": "Mythology & Folklore",
+    "title": "Caduceus Serpents",
+    "type": "Greek Symbolism",
+    "description": "Twin intertwined serpents wrapped around Hermes' staff.",
+    "image": "caduceus.jpg",
+    "@image": "assets/twist-content/Myth & Symbolism/caduceus.jpg",
+    "link": "https://en.wikipedia.org/wiki/Caduceus"
+  },
+  {
+    "path-extension": "assets/twist-content/Myth & Symbolism/",
+    "category": "Mythology & Folklore",
+    "title": "Ouroboros",
+    "type": "Mythic Symbol",
+    "description": "Serpent eating its own tail representing eternity.",
+    "image": "ouroboros.jpg",
+    "@image": "assets/twist-content/Myth & Symbolism/ouroboros.jpg",
+    "link": "https://en.wikipedia.org/wiki/Ouroboros"
+  },
+  {
+    "path-extension": "assets/twist-content/Myth & Symbolism/",
+    "category": "Mythology & Folklore",
+    "title": "Triple Spiral (Triskele)",
+    "type": "Celtic Symbol",
+    "description": "Ancient spiral motif associated with motion and cycles.",
+    "image": "triple-spiral.jpg",
+    "@image": "assets/twist-content/Myth & Symbolism/triple-spiral.jpg",
+    "link": "https://en.wikipedia.org/wiki/Triskelion"
+  },
+  {
+    "path-extension": "assets/twist-content/Myth & Symbolism/",
+    "category": "Mythology & Folklore",
+    "title": "Labyrinth Spiral",
+    "type": "Greek Mythology",
+    "description": "Spiral labyrinth imagery tied to the Minotaur legend.",
+    "image": "labyrinth.jpg",
+    "@image": "assets/twist-content/Myth & Symbolism/labyrinth.jpg",
+    "link": "https://en.wikipedia.org/wiki/Labyrinth"
+  },
+  {
+    "path-extension": "assets/twist-content/Myth & Symbolism/",
+    "category": "Mythology & Folklore",
+    "title": "The Fates (Moirai)",
+    "type": "Greek Mythology",
+    "description": "Three goddesses who spin, measure, and cut the thread of life, symbolizing destiny through spinning and weaving.",
+    "image": "thefates.jpg",
+    "@image": "assets/twist-content/Myth & Symbolism/thefates.jpg",
+    "link": "https://blog.terischure.com/the-fates-and-the-furies/"
+  },
+  {
+    "path-extension": "assets/twist-content/Myth & Symbolism/",
+    "category": "Mythology & Folklore",
+    "title": "Norns",
+    "type": "Norse Mythology",
+    "description": "Three female beings associated with weaving or determining fate.",
+    "image": "norns.jpg",
+    "@image": "assets/twist-content/Myth & Symbolism/norns.jpg",
+    "link": "https://en.wikipedia.org/wiki/Norns"
+  },
+  {
+    "path-extension": "assets/twist-content/Myth & Symbolism/",
+    "category": "Mythology & Folklore",
+    "title": "J�rmungandr",
+    "type": "Norse Mythology",
+    "description": "is an unfathomably large and monstrous�sea serpent�or�worm�who dwells in the world sea, encircling the Earth (Midgard) and biting his own tail",
+    "image": "jo_rmungandr.jpg",
+    "@image": "assets/twist-content/Myth & Symbolism/jo_rmungandr.jpg",
+    "link": "https://en.wikipedia.org/wiki/J%C3%B6rmungandr"
+  },
+  {
+    "path-extension": "assets/twist-content/Myth & Symbolism/",
+    "category": "Mythology & Folklore",
+    "title": "Cosmic Serpent",
+    "type": "Comparative Mythology",
+    "description": "Recurring motif of a giant coiling serpent across world mythologies.",
+    "image": "cosmicsperpent.jpg",
+    "@image": "assets/twist-content/Myth & Symbolism/cosmicsperpent.jpg",
+    "link": "https://en.wikipedia.org/wiki/Serpent_symbolism#Cosmic_serpents"
+  },
+  {
+    "path-extension": "assets/twist-content/Myth & Symbolism/",
+    "category": "Mythology & Folklore",
+    "title": "Ariadne's Thread",
+    "type": "Greek Mythology",
+    "description": "The guiding thread used by Theseus to escape the Labyrinth, symbolizing guidance through complexity.",
+    "image": "ariadne.jpg",
+    "@image": "assets/twist-content/Myth & Symbolism/ariadne.jpg",
+    "link": "https://en.wikipedia.org/wiki/Ariadne%27s_thread_(logic)"
+  },
+  {
+    "path-extension": "assets/twist-content/Myth & Symbolism/",
+    "category": "Mythology & Folklore",
+    "title": "Wheel of Fortune",
+    "type": "Medieval & Classical Symbolism",
+    "description": "The ever-turning wheel representing the changing twists of fate and fortune.",
+    "image": "wheel-of-fortune.jpg",
+    "@image": "assets/twist-content/Myth & Symbolism/wheel-of-fortune.jpg",
+    "link": "https://en.wikipedia.org/wiki/Wheel_of_Fortune_(medieval)"
+  },
+  {
+    "path-extension": "assets/twist-content/Myth & Symbolism/",
+    "category": "Mythology & Folklore",
+    "title": "Lernaean Hydra",
+    "type": "Greek Mythology",
+    "description": "is a�serpentine�lake monster�in�Greek mythology�and�Roman mythology.",
+    "image": "hydra.jpg",
+    "@image": "assets/twist-content/Myth & Symbolism/hydra.jpg",
+    "link": "https://en.wikipedia.org/wiki/Lernaean_Hydra"
+  },
+  {
+    "path-extension": "assets/twist-content/Myth & Symbolism/",
+    "category": "Mythology & Folklore",
+    "title": "Damballa",
+    "type": "Haitian Vodou and other African diaspora traditions",
+    "description": "�is one of the most important of all�loa, spirits in�West African Vodun,�Haitian Voodoo�and other�African diaspora religious�traditions such as�Obeah.",
+    "image": "damballah.jpg",
+    "@image": "assets/twist-content/Myth & Symbolism/damballah.jpg",
+    "link": "https://en.wikipedia.org/wiki/Damballa"
+  },
+  {
+    "path-extension": "assets/twist-content/Myth & Symbolism/",
+    "category": "Mythology & Folklore",
+    "title": "Quetzalc__tl",
+    "type": "Mesoamerika mythology",
+    "description": "is a�deity�in�Aztec culture�and�literature. Among the Aztecs, he was related to wind, Venus, Sun, merchants, arts, crafts, knowledge, and learning.",
+    "image": "quetzalcoat.jpg",
+    "@image": "assets/twist-content/Myth & Symbolism/quetzalcoat.jpg",
+    "link": "https://en.wikipedia.org/wiki/Quetzalc%C5%8D%C4%81tl"
+  },
+  {
+    "path-extension": "assets/twist-content/Myth & Symbolism/",
+    "category": "Mythology & Folklore",
+    "title": "Mount Mandara",
+    "type": "Hindu mythology",
+    "description": "is the name of the mountain that appears in the�Samudra Manthana�episode in the�Hindu�Puranas, where it was used as a churning rod to churn the�Ocean of Milk.",
+    "image": "kurma.jpg",
+    "@image": "assets/twist-content/Myth & Symbolism/kurma.jpg",
+    "link": "https://en.wikipedia.org/wiki/Mount_Mandara"
+  },
+  {
+    "path-extension": "assets/twist-content/Myth & Symbolism/",
+    "category": "Mythology & Folklore",
+    "title": "Samudra Manthana",
+    "type": "Hindu mythology",
+    "description": "('churning of the ocean') is a major episode in�Hinduism�that is elaborated in the�Vishnu Purana, a major text of�Hinduism.[1]�The Samudra Manthana explains the origin of the elixir of eternal life,�amrita.",
+    "image": "samudra.jpg",
+    "@image": "assets/twist-content/Myth & Symbolism/samudra.jpg",
+    "link": "https://en.wikipedia.org/wiki/Samudra_Manthana"
+  },
+  {
+    "path-extension": "assets/twist-content/Myth & Symbolism/",
+    "category": "Symbolism & Philosophy",
+    "title": "Spiral",
+    "type": "Universal Symbol",
+    "description": "Represents growth, evolution, cycles, and expansion.",
+    "image": "spiraluniverse.jpg",
+    "@image": "assets/twist-content/Myth & Symbolism/spiraluniverse.jpg",
+    "link": "https://en.wikipedia.org/wiki/Spiral"
+  },
+  {
+    "path-extension": "assets/twist-content/Myth & Symbolism/",
+    "category": "Symbolism & Philosophy",
+    "title": "Double Helix",
+    "type": "Scientific Symbolism",
+    "description": "DNA as a modern symbol of life, inheritance, and interconnectedness.",
+    "image": "dna-shapes.png",
+    "@image": "assets/twist-content/Myth & Symbolism/dna-shapes.png",
+    "link": "https://en.wikipedia.org/wiki/DNA"
+  },
+  {
+    "path-extension": "assets/twist-content/Myth & Symbolism/",
+    "category": "Symbolism & Philosophy",
+    "title": "Yin and Yang Motion",
+    "type": "Philosophical Concept",
+    "description": "Intertwining complementary forces in continual transformation.",
+    "image": "",
+    "@image": "assets/twist-content/Myth & Symbolism/",
+    "link": "https://www.britannica.com/topic/yinyang"
+  },
+  {
+    "path-extension": "assets/twist-content/Myth & Symbolism/",
+    "category": "Symbolism & Philosophy",
+    "title": "Helix",
+    "type": "Geometric Symbol",
+    "description": "Ascending spiral representing progress and transcendence.",
+    "image": "helix.png",
+    "@image": "assets/twist-content/Myth & Symbolism/helix.png",
+    "link": "https://mathworld.wolfram.com/Helix.html"
+  },
+  {
+    "path-extension": "assets/twist-content/Myth & Symbolism/",
+    "category": "Symbolism & Philosophy",
+    "title": "Spiral Galaxy",
+    "type": "Cosmic Symbol",
+    "description": "Winding cosmic structure representing infinite expansion.",
+    "image": "spiraluniverse.jpg",
+    "@image": "assets/twist-content/Myth & Symbolism/spiraluniverse.jpg",
+    "link": "https://en.wikipedia.org/wiki/Spiral_galaxy"
+  },
+  {
+    "path-extension": "assets/twist-content/Miscellaneous/",
+    "category": "Miscellaneous",
+    "title": "Twist Ending",
+    "type": "Storytelling Device",
+    "description": "Narrative ending featuring an unexpected revelation or reversal.",
+    "image": "twist-ending.jpg",
+    "@image": "assets/twist-content/Miscellaneous/twist-ending.jpg",
+    "link": "https://driving-tests.org/road-signs/winding-road-sign/"
+  },
+  {
+    "path-extension": "assets/twist-content/Miscellaneous/",
+    "category": "Miscellaneous",
+    "title": "Twist Tie",
+    "type": "Everyday Object",
+    "description": "Reusable wire fastener commonly used to seal bags and bundle cables.",
+    "image": "twist-tie.jpg",
+    "@image": "assets/twist-content/Miscellaneous/twist-tie.jpg",
+    "link": "https://www.andfel.com/twist-ties/plastic-cut-length-10.html#1"
+  },
+  {
+    "path-extension": "assets/twist-content/Miscellaneous/",
+    "category": "Miscellaneous",
+    "title": "Brain Twister",
+    "type": "Puzzle",
+    "description": "Logic and party puzzle concept inspired by twisting mechanics.",
+    "image": "brain-twister-game.jpg",
+    "@image": "assets/twist-content/Miscellaneous/brain-twister-game.jpg",
+    "link": "https://www.amazon.com.au/EUREKA-TOYS-GAMES-Twister-Challenge/dp/B0982X1MTV"
+  },
+  {
+    "path-extension": "assets/twist-content/Miscellaneous/",
+    "category": "Miscellaneous",
+    "title": "Twist Lock",
+    "type": "Mechanical Fastener",
+    "description": "Locking mechanism secured by rotational movement.",
+    "image": "twist-lock.jpg",
+    "@image": "assets/twist-content/Miscellaneous/twist-lock.jpg",
+    "link": "https://www.mytarp.com/products/turn-snap-button-fasteners-two-screw-mount"
+  },
+  {
+    "path-extension": "assets/twist-content/Miscellaneous/",
+    "category": "Miscellaneous",
+    "title": "Twist Grip",
+    "type": "Control",
+    "description": "Rotating motorcycle or bicycle throttle control.",
+    "image": "twist-grip.jpg",
+    "@image": "assets/twist-content/Miscellaneous/twist-grip.jpg",
+    "link": "https://en.wikipedia.org/wiki/Twistgrip"
+  },
+  {
+    "path-extension": "assets/twist-content/Miscellaneous/",
+    "category": "Miscellaneous",
+    "title": "Twisted",
+    "type": "Hallucinogen",
+    "description": "1995 influential psychedelic trance album by Simon Posford.",
+    "image": "twisted-hallucinogen.jpg",
+    "@image": "assets/twist-content/Miscellaneous/twisted-hallucinogen.jpg",
+    "link": "https://en.wikipedia.org/wiki/Twisted_(Hallucinogen_album)"
+  },
+  {
+    "path-extension": "assets/twist-content/Miscellaneous/",
+    "category": "Miscellaneous",
+    "title": "Twisted Paper",
+    "type": "Material",
+    "description": "A piece of paper manipulated by twisting.",
+    "image": "twistpaper.jpg",
+    "@image": "assets/twist-content/Miscellaneous/twistpaper.jpg",
+    "link": "https://www.are.na/block/6034671"
+  },
+  {
+    "path-extension": "assets/twist-content/Miscellaneous/",
+    "category": "Miscellaneous",
+    "title": "New York Times Cooking feature",
+    "type": "Quote",
+    "description": "The person describes the restaurant's feature sandwich.",
+    "image": "my-twist.png",
+    "@image": "assets/twist-content/Miscellaneous/my-twist.png",
+    "link": "https://www.facebook.com/nytcooking/videos/the-unofficial-sandwich-of-harlem/1288057059816989/"
+  },
+  {
+    "path-extension": "assets/twist-content/Idioms & Expressions/",
+    "category": "Idioms & Expressions",
+    "title": "A twist of fate",
+    "type": "Idiom",
+    "description": "An unexpected change in events or circumstances.",
+    "image": "ying-yang.jpeg",
+    "@image": "assets/twist-content/Idioms & Expressions/ying-yang.jpeg",
+    "link": "https://en.wikipedia.org/wiki/Yin_and_yang"
+  },
+  {
+    "path-extension": "assets/twist-content/Idioms & Expressions/",
+    "category": "Idioms & Expressions",
+    "title": "Plot twist 'do it for the plot'",
+    "type": "Expression",
+    "description": "An unexpected development in a story or narrative.",
+    "image": "plot-twist.png",
+    "@image": "assets/twist-content/Idioms & Expressions/plot-twist.png",
+    "link": "https://www.tiktok.com/@cayydences/video/7627425891378908434"
+  },
+  {
+    "path-extension": "assets/twist-content/Idioms & Expressions/",
+    "category": "Idioms & Expressions",
+    "title": "Twist someone's arm",
+    "type": "Idiom",
+    "description": "To persuade someone reluctantly.",
+    "image": "twist-arm.png",
+    "@image": "assets/twist-content/Idioms & Expressions/twist-arm.png",
+    "link": "https://www.youtube.com/shorts/hAlUukACmAU"
+  },
+  {
+    "path-extension": "assets/twist-content/Idioms & Expressions/",
+    "category": "Idioms & Expressions",
+    "title": "Twist the knife",
+    "type": "Idiom",
+    "description": "To make an unpleasant situation even more painful.",
+    "image": "twist-knife.png",
+    "@image": "assets/twist-content/Idioms & Expressions/twist-knife.png",
+    "link": "https://www.youtube.com/watch?v=9ZyxyImvf1k"
+  },
+  {
+    "path-extension": "assets/twist-content/Idioms & Expressions/",
+    "category": "Idioms & Expressions",
+    "title": "Twist the truth",
+    "type": "Expression",
+    "description": "To distort or misrepresent the facts.",
+    "image": "",
+    "@image": "assets/twist-content/Idioms & Expressions/",
+    "link": "https://www.ebay.de/itm/182345071360?srsltid=AfmBOorG8qZ6mfUaB46AbyoWCHSAIDu4hdAcilp20XmOextVgvb24QAf"
+  },
+  {
+    "path-extension": "assets/twist-content/Idioms & Expressions/",
+    "category": "Idioms & Expressions",
+    "title": "Get your knickers in a twist",
+    "type": "Idiom",
+    "description": "To become unnecessarily upset or agitated.",
+    "image": "knicker-twist.jpeg",
+    "@image": "assets/twist-content/Idioms & Expressions/knicker-twist.jpeg",
+    "link": "https://uk.pinterest.com/pin/706713366558622813/"
+  },
+  {
+    "path-extension": "assets/twist-content/Idioms & Expressions/",
+    "category": "Idioms & Expressions",
+    "title": "In a twist",
+    "type": "Expression",
+    "description": "In a state of anxiety or confusion.",
+    "image": "in-a-twist.jpeg",
+    "@image": "assets/twist-content/Idioms & Expressions/in-a-twist.jpeg",
+    "link": "https://uk.pinterest.com/pin/31947478604129726/"
+  },
+  {
+    "path-extension": "assets/twist-content/Idioms & Expressions/",
+    "category": "Idioms & Expressions",
+    "title": "Twist and turn",
+    "type": "Expression",
+    "description": "To wind or change direction repeatedly.",
+    "image": "twist-turn.jpeg",
+    "@image": "assets/twist-content/Idioms & Expressions/twist-turn.jpeg",
+    "link": "https://uk.pinterest.com/pin/985231164567720/"
+  },
+  {
+    "path-extension": "assets/twist-content/Idioms & Expressions/",
+    "category": "Idioms & Expressions",
+    "title": "With a twist",
+    "type": "Expression",
+    "description": "Modified by an unexpected or distinctive feature.",
+    "image": "with-a-twist.jpeg",
+    "@image": "assets/twist-content/Idioms & Expressions/with-a-twist.jpeg",
+    "link": "https://uk.pinterest.com/pin/94857135873648692/"
+  },
+  {
+    "path-extension": "assets/twist-content/Idioms & Expressions/",
+    "category": "Idioms & Expressions",
+    "title": "Cross Your Fingers",
+    "type": "Hand Gesture",
+    "description": "Commonly used to wish for�luck�or to bid one Godspeed.[",
+    "image": "hands-fingers-crossed.jpg",
+    "@image": "assets/twist-content/Idioms & Expressions/hands-fingers-crossed.jpg",
+    "link": "https://en.wikipedia.org/wiki/Crossed_fingers"
+  },
+  {
+    "path-extension": "assets/twist-content/Idioms & Expressions/",
+    "category": "Idioms & Expressions",
+    "title": "pinky promise",
+    "type": "Hand Gesture",
+    "description": "is a traditional gesture most commonly practiced amongst children involving the locking of the�pinkies�of two people to signify that a�promise�has been made.",
+    "image": "pinky_swear.jpeg",
+    "@image": "assets/twist-content/Idioms & Expressions/pinky_swear.jpeg",
+    "link": "https://en.wikipedia.org/wiki/Pinky_swear"
+  }
+]
