@@ -1,0 +1,55 @@
+{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  font-family: helvetica, arial, sans-serif;
+  padding: 24px;
+  font-size: 16px;
+  background: white;
+  color: black;
+}
+h1 {
+  font-size: 1rem;
+}
+img {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+#katalog {
+  column-count: 5;
+  column-gap: 24px;
+}
+.card {
+  display: inline-block;
+  width: 100%;
+  margin-bottom: 28px;
+  break-inside: avoid;
+  vertical-align: top;
+}
+.card-category {
+  font-size: 0.85rem;
+  margin-bottom: 8px;
+}
+.card-image {
+  margin-bottom: 12px;
+}
+.card-content {
+  padding: 0;
+}
+.card-title {
+  font-size: 1.1rem;
+  font-weight: 700;
+  line-height: 1.05;
+  margin-bottom: 4px;
+}
+.card-type {
+  font-size: 0.95rem;
+  margin-bottom: 4px;
+}
+.card-description {
+  font-size: 0.95rem;
+  line-height: 1.2;
+}
